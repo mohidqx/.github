@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I%27m+[r00t:~]+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+CYBEROPS;System+Online...;Initiating+Protocol...;Welcome+Home,+Operator." alt="Title"></img>
   </a>
 </div>
 
@@ -12,39 +12,51 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
-I'm [r00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
+I'm **[r00t:~#]**, a **Red Team Operator**, **Tool Developer**, and **Offensive Security Researcher**. 
+
+I specialize in building "God-Mode" network surveillance tools (like **Wraith-Wire**) and automated exploitation frameworks. My mission is to bridge the gap between theoretical vulnerability research and weaponized implementation.
 
 <details>
-  <summary>More about me</summary>
+  <summary><b>📂 Identity File (More about me)</b></summary>
 
-- **Name**: [r00t:~#]
-- **From**: Pakistan
-- **Bug Hunter** | **Ethical Hacker** 
-- i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
-- Improving knowledge in **Webapp Vulnerabilities & Network Hacking**
-- Lifelong learner — always exploring **everything**
-- Reach me out at **mohid.qx@proton.me**
+- **Codename**: [r00t:~#] / Muhammad Mohid
+- **Base of Ops**: Pakistan
+- **Affiliation**: **Founder @ CYBEROPS**
+- **Specialization**: Network Interception, Malware Analysis, Tool Development (Python/C/Go)
+- **Current Objective**: Building the ultimate surveillance suite.
+- **Comm Link**: **mohid.qx@proton.me**
 
 </details>
+
+<details>
+  <summary><b>👥 Team CyberOps Operatives</b></summary>
+  <br>
+  
+  | Operative | Role | Status |
+  | :--- | :--- | :--- |
+  | **[Muhammad Mohid](https://github.com/mohidqx)** | Lead Operative / Founder | 🟢 **Online** |
+  | **[Operative-02]** | *[Pending Recruitment]* | ⚪ *Offline* |
+  | **[Operative-03]** | *[Pending Recruitment]* | ⚪ *Offline* |
+
+</details>
+
 <br>
 
 ---
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status"> 📡 Operational Status </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & malware forensics.
+👉 **Developing:** [Wraith-Wire](https://github.com/mohidqx/wraith-wire) (God-Mode Network Interceptor).
 
-👉 Managing Tech Communities & Content creator.
+👉 **Leading:** [CYBEROPS](https://github.com/CYBEROPS) Research Collective.
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 **Researching:** Passive TLS Stripping & Process Injection.
 
-👉 Building & Contributing To Open Source Projects
+👉 **Writing:** Malware Analysis & Forensics tools.
 
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist.
+`System Update:` Transitioning to Full-Stack Offensive Tooling.
 
 ---
 <br>
@@ -61,20 +73,10 @@ I'm [r00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter. W
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
       <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
       <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
-      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
@@ -82,33 +84,29 @@ I'm [r00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter. W
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''>Combat Logs 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohidqx&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/mohidqx/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mohidqx&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohidqx&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/mohidqx/github-readme-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=mohidqx&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/mohidqx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidqx&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 ---
-<h2 id="donate" align=''> Support⚡️</h2>
+<h2 id="donate" align=''> Supply Lines ⚡️</h2>
 
 <details>
-<summary>Buy Me A Coffee</summary>
-
+<summary>Support the Operation</summary>
 
 <p align="center"><a href="https://buymeacoffee.com/mohidqx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
 
-
-
-
 <p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
+  <b><i>"Visibility is the ultimate weapon."</i></b>
 </p>
 <p align="center">
-<a>🌱</a>
+<a>☠️</a>
 </p>
 <p align="center">
   <img src="https://github.com/Caerlower/caerlower/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
