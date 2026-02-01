@@ -1,113 +1,51 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<div align="center">
+  
+  # 👁️ CYBEROPS
+
+  **[ OFFENSIVE SECURITY // NETWORK INTELLIGENCE // RED TEAM OPS ]**
+
+  > *"Visibility is the ultimate weapon. We code the eyes that see everything."*
+
+  ![Status](https://img.shields.io/badge/Status-OPERATIONAL-success?style=for-the-badge&logo=kalilinux)
+  ![Focus](https://img.shields.io/badge/Focus-Network_Warfare-red?style=for-the-badge&logo=hackthebox)
+  ![Lang](https://img.shields.io/badge/Core-Python_Go_C++-blue?style=for-the-badge&logo=python)
+
+</div>
+
+---
+
+### 🏴 Mission Directive
+
+**CYBEROPS** is an advanced research collective dedicated to developing next-generation offensive security tools and network surveillance suites. We bridge the gap between theoretical vulnerability research and weaponized implementation.
+
+Our focus lies in **Network Interception**, **Protocol Analysis**, **Automated Exploitation**, and **"God-Mode" Surveillance** technologies.
+
+### 🛠️ The Arsenal (Featured Projects)
+
+| Project | Class | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **[👻 Wraith-Wire](https://github.com/CYBEROPS/wraith-wire)** | `Surveillance` | 🟢 **Active** | "God-Mode" network interceptor with Process Mapping and TUI. |
+| **[🛡️ Sentinel-X](https://github.com/CYBEROPS/sentinel-x)** | `Defense/Intel` | 🟡 **Dev** | Integrated OSINT and threat detection framework. |
+| **[💀 Payload-Core](https://github.com/CYBEROPS/payload-core)** | `Exploitation` | 🔴 **Classified** | Automated payload generation and obfuscation engine. |
+
+### ⚡ Operational Stack
+
+* **Languages:** Python, C, Go, Rust
+* **Infrastructure:** Docker, Linux (Kali/Parrot), Cloud C2
+* **Capabilities:** Packet Sniffing, MITM, Reverse Engineering, Cryptanalysis
+
+### 📡 Transmission
+
+We are always looking for elite contributors and researchers.
+
+* **Lead Operative:** [Muhammad Mohid](https://github.com/your-personal-username)
+* **Secure Comm:** `mohid.qx@proton.me`
+* **Protocol:** PGP Key Available on Request
+
+---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+CYBEROPS;System+Online...;Initiating+Protocol...;Welcome+Home,+Operator." alt="Title"></img>
-  </a>
-</div>
-
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
-<h2 align="left">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
-
-I'm **[r00t:~#]**, a **Red Team Operator**, **Tool Developer**, and **Offensive Security Researcher**. 
-
-I specialize in building "God-Mode" network surveillance tools (like **Wraith-Wire**) and automated exploitation frameworks. My mission is to bridge the gap between theoretical vulnerability research and weaponized implementation.
-
-<details>
-  <summary><b>📂 Identity File (More about me)</b></summary>
-
-- **Codename**: [r00t:~#] / Muhammad Mohid
-- **Base of Ops**: Pakistan
-- **Affiliation**: **Founder @ CYBEROPS**
-- **Specialization**: Network Interception, Malware Analysis, Tool Development (Python/C/Go)
-- **Current Objective**: Building the ultimate surveillance suite.
-- **Comm Link**: **mohid.qx@proton.me**
-
-</details>
-
-<details>
-  <summary><b>👥 Team CyberOps Operatives</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-personal-username&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="Stats" />
   <br>
-  
-  | Operative | Role | Status |
-  | :--- | :--- | :--- |
-  | **[Muhammad Mohid](https://github.com/mohidqx)** | Lead Operative / Founder | 🟢 **Online** |
-  | **[Operative-02]** | *[Pending Recruitment]* | ⚪ *Offline* |
-  | **[Operative-03]** | *[Pending Recruitment]* | ⚪ *Offline* |
-
-</details>
-
-<br>
-
----
-<h2 id="present_status"> 📡 Operational Status </h3>
-
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-👉 **Developing:** [Wraith-Wire](https://github.com/mohidqx/wraith-wire) (God-Mode Network Interceptor).
-
-👉 **Leading:** [CYBEROPS](https://github.com/CYBEROPS) Research Collective.
-
-👉 **Researching:** Passive TLS Stripping & Process Injection.
-
-👉 **Writing:** Malware Analysis & Forensics tools.
-
-`System Update:` Transitioning to Full-Stack Offensive Tooling.
-
----
-<br>
-
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-  </div>
+  <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
----
-
-
-<h2 id="github_stats" align=''>Combat Logs 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
- [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohidqx&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/mohidqx/github-readme-stats)
- [![GitHub Streak](https://streak-stats.demolab.com?user=mohidqx&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/mohidqx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidqx&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
-
-<br><br>
----
-<h2 id="donate" align=''> Supply Lines ⚡️</h2>
-
-<details>
-<summary>Support the Operation</summary>
-
-<p align="center"><a href="https://buymeacoffee.com/mohidqx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
-
-<p align="center">
-  <b><i>"Visibility is the ultimate weapon."</i></b>
-</p>
-<p align="center">
-<a>☠️</a>
-</p>
-<p align="center">
-  <img src="https://github.com/Caerlower/caerlower/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
