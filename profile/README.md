@@ -18,34 +18,56 @@
 
 **CYBEROPS** is an advanced research collective dedicated to developing next-generation offensive security tools and network surveillance suites. We bridge the gap between theoretical vulnerability research and weaponized implementation.
 
-Our focus lies in **Network Interception**, **Protocol Analysis**, **Automated Exploitation**, and **"God-Mode" Surveillance** technologies.
+### 🛠️ Sector 01: The Arsenal (Offensive Capability)
 
-### 🛠️ The Arsenal (Featured Projects)
+*Core security tools, surveillance engines, and exploitation frameworks.*
 
 | Project | Class | Status | Description |
 | :--- | :--- | :--- | :--- |
-| **[👻 Wraith-Wire](https://github.com/CYBEROPS/wraith-wire)** | `Surveillance` | 🟢 **Active** | "God-Mode" network interceptor with Process Mapping and TUI. |
-| **[🛡️ Sentinel-X](https://github.com/CYBEROPS/sentinel-x)** | `Defense/Intel` | 🟡 **Dev** | Integrated OSINT and threat detection framework. |
-| **[💀 Payload-Core](https://github.com/CYBEROPS/payload-core)** | `Exploitation` | 🔴 **Classified** | Automated payload generation and obfuscation engine. |
+| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)** | `Surveillance` | 🟢 **Active** | Packet harvesting and credential extraction engine. |
+| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)** | `Recon` | 🟢 **Active** | Single-file orchestrator for reconnaissance pipelines. |
+| **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)** | `Web Ops` | 🟢 **Active** | Automated XSS payload injection and exploitation framework. |
+| **[💀 GhostSession](https://github.com/mohidqx/GhostSession)** | `Exploitation` | 🟢 **Active** | Instagram session persistence and extraction tool. |
+| **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)** | `Forensics` | 🟡 **Legacy** | Browser Data Extractor and Facebook phishing/forensics tool. |
+| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)** | `Automation` | 🟢 **Active** | Browser extension for X (Twitter) automation. |
+| **[🚩 cyberops-capture-the-flag](https://github.com/mohidqx/cyberops-capture-the-flag)** | `Training` | 🟢 **Active** | Official CTF challenges and training scenarios. |
+| **[🎓 CTF](https://github.com/mohidqx/CTF)** | `Training` | 🟢 **Active** | Collection of real-world vulnerability web challenges. |
+
+### 🔬 Sector 02: Research & Development
+
+*Bots, web applications, and experimental code.*
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)** | `JavaScript` | High-performance WhatsApp/Discord bot integration. |
+| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TypeScript` | Experimental AI conversational interface. |
+| **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)** | `TypeScript` | Project management or utility module. |
+| **[📉 personal-trader-nest](https://github.com/mohidqx/personal-trader-nest)** | `TypeScript` | Financial trading algorithm prototype. |
+| **[🗺️ indus-trails-online](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `TypeScript` | Web mapping or tracking application. |
+
+### 📂 Sector 03: Archives & Internal
+
+*Data sets, educational resources, and personal projects.*
+
+| Project | Type | Description |
+| :--- | :--- | :--- |
+| **[📚 Robbins_Pathology](https://github.com/mohidqx/Robbins_Pathology)** | `Education` | Medical data/textbook resources on pathological basis of disease. |
+| **[🎂 ayesha-s-birthday-surprise](https://github.com/mohidqx/ayesha-s-birthday-surprise)** | `Misc` | Web-based event project. |
+| **[💾 sim-data](https://github.com/mohidqx/sim-data)** | `Data` | SIM database reference or simulation data. |
+| **[🔒 WhoAmi](https://github.com/mohidqx/WhoAmi)** | `Internal` | Identity resolution utility (Private). |
+| **[🔒 AjwaRestaurant](https://github.com/mohidqx/AjwaRestaurant)** | `Internal` | Client web architecture (Private). |
+| **[🔒 mohid0x01-Portfolio](https://github.com/mohidqx/mohid0x01-Portfolio)** | `Internal` | Legacy portfolio source (Private). |
 
 ### ⚡ Operational Stack
 
-* **Languages:** Python, C, Go, Rust
+* **Languages:** Python, JavaScript, TypeScript, C++
 * **Infrastructure:** Docker, Linux (Kali/Parrot), Cloud C2
-* **Capabilities:** Packet Sniffing, MITM, Reverse Engineering, Cryptanalysis
-
-### 📡 Transmission
-
-We are always looking for elite contributors and researchers.
-
-* **Lead Operative:** [Muhammad Mohid](https://github.com/your-personal-username)
-* **Secure Comm:** `mohid.qx@proton.me`
-* **Protocol:** PGP Key Available on Request
+* **Capabilities:** Packet Sniffing, Session Hijacking, Automated Recon, XSS Automation
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-personal-username&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohidqx&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="Stats" />
   <br>
   <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
