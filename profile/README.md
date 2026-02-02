@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=900&lines=CYBEROPS_NEXUS;SYSTEM_OVERRIDE;WEAPONIZED_CODE" alt="Glitch Header" style="margin-bottom: -10px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=60&duration=3000&pause=1000&color=000&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+to+CyberOps" alt="Glitch Header" style="margin-bottom: -10px;" />
 
+<br>
 <br>
 
 <p align="center">
-  <a href="https://github.com/CYBEROPS">
+  <a href="https://github.com/mohidqx">
     <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=linux&logoColor=000&labelColor=0a0a0a" alt="System Online">
   </a>
-  <a href="https://github.com/CYBEROPS">
+  <a href="https://mohid0x01.vercel.app">
     <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-FF0055?style=for-the-badge&logo=kali-linux&logoColor=000&labelColor=0a0a0a" alt="Security Offensive">
   </a>
-  <a href="https://github.com/CYBEROPS">
+  <a href="https://ctfcyberops.vercel.app">
     <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-9900FF?style=for-the-badge&logo=gnu-privacy-guard&logoColor=000&labelColor=0a0a0a" alt="Encryption">
   </a>
 </p>
@@ -41,7 +42,7 @@
 <br>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9900FF&center=true&vCenter=true&width=435&lines=LOADING_OPERATIONAL_MODULES..." alt="Loading Modules" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=retro-tech&weight=600&size=20&pause=1000&color=9900FF&center=true&vCenter=true&width=435&lines=TeamCyberOps" alt="Manifestro" />
 </h3>
 
 <div align="center">
@@ -56,11 +57,11 @@
   <img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=00F0FF&labelColor=00F0FF&color=000000" alt="Arsenal Dir">
 </h2>
 
-| 📡 Surveillance & Recon | 💥 Exploitation & Attack | 🛡️ Defense & Forensics |
-| :--- | :--- | :--- |
-| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)**<br>Packet harvesting & credential extraction engine. | **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)**<br>Automated XSS payload injector. | **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)**<br>Browser Data Extractor & forensics toolkit. |
-| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)**<br>Domain enumeration orchestrator. | **[💀 GhostSession](https://github.com/mohidqx/GhostSession)**<br>Session persistence & token hijacking. | **[🔐 CyberOps-Vault](https://github.com/mohidqx)**<br>Secure storage protocols (Internal). |
-| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)**<br>Social automata & bot interaction. | **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)**<br>War-games training scenarios. | **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)**<br>Project management utility. |
+| 📡 Surveillance & Recon                                                                                       | 💥 Exploitation & Attack                                                                                     | 🛡️ Defense & Forensics                                                                          |
+| :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- |
+| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)**<br>Packet harvesting & credential extraction engine. | **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)**<br>Automated XSS payload injector.              | **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)**<br>Browser Data Extractor & forensics toolkit. |
+| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)**<br>Domain enumeration orchestrator.      | **[💀 GhostSession](https://github.com/mohidqx/GhostSession)**<br>Session persistence & token hijacking.     | **[🔐 CyberOps-Vault](https://github.com/mohidqx)**<br>Secure storage protocols (Internal).     |
+| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)**<br>Social automata & bot interaction.              | **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)**<br>War-games training scenarios. | **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)**<br>Project management utility.               |
 
 <br>
 
@@ -68,19 +69,19 @@
   <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=9900FF&labelColor=9900FF&color=000000" alt="Research Dir">
 </h2>
 
-| Project ID | Stack | Status | Objective |
-| :--- | :--- | :--- | :--- |
-| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)** | `JS/Node` | 🟡 `Dev` | High-performance Bot Integration. |
-| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TS/LLM` | 🟡 `Dev` | Conversational Intelligence Interface. |
-| **[📉 personal-trader](https://github.com/mohidqx/personal-trader-nest)** | `NestJS` | 🔵 `Alpha` | Algorithmic Financial Trading. |
-| **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `React` | 🟢 `Live` | Geospatial Tracking System. |
+| Project ID                                                                     | Stack     | Status     | Objective                              |
+| :----------------------------------------------------------------------------- | :-------- | :--------- | :------------------------------------- |
+| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)**                   | `JS/Node` | 🟡 `Dev`   | High-performance Bot Integration.      |
+| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)**                     | `TS/LLM`  | 🟡 `Dev`   | Conversational Intelligence Interface. |
+| **[📉 personal-trader](https://github.com/mohidqx/personal-trader-nest)**      | `NestJS`  | 🔵 `Alpha` | Algorithmic Financial Trading.         |
+| **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `React`   | 🟢 `Live`  | Geospatial Tracking System.            |
 
 <br>
 
 <details>
 <summary>
   <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=FF0055" alt="Restricted Access"> 
-  <b style="color: #8b949e; cursor: pointer;"> Click to access /var/archives</b>
+  <b style="color: #8b949e; cursor: pointer;"> Click to access</b>
 </summary>
 <br>
 <table width="100%">
@@ -96,7 +97,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
 <br>
 
-<h3 align="center"><code>> SQUAD_LINK_ESTABLISHED</code></h3>
+<h3 align="center"><code> 📍 Pakistan 🇵🇰  </code></h3>
 
 <div align="center">
   <a href="https://github.com/mohid0x01">
