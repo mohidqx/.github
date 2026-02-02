@@ -134,12 +134,13 @@ through the digital veil.
     TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0 <br>
     -----END PGP SIGNATURE-----
   </p>
-### 📊 SYSTEM_METRICS (Real-time)
+  
+### 📊 SYSTEM_METRICS
 
 | 🟢 OPERATIVE | 🛠️ TOTAL_COMMITS | 🏗️ REPOSITORIES | 🤝 FOLLOWERS |
 | :--- | :--- | :--- | :--- |
-| **Mohid** | ![Commits](https://img.shields.io/github/commits-誠/mohid0x01?color=00F0FF&style=flat-square&label=%20) | ![Repos](https://img.shields.io/github/repos-誠/mohid0x01?color=FF0055&style=flat-square&label=%20) | ![Followers](https://img.shields.io/github/followers/mohid0x01?color=9900FF&style=flat-square&label=%20) |
-| **Rehan** | ![Commits](https://img.shields.io/github/commits-誠/rehan-qx?color=00F0FF&style=flat-square&label=%20) | ![Repos](https://img.shields.io/github/repos-誠/rehan-qx?color=FF0055&style=flat-square&label=%20) | ![Followers](https://img.shields.io/github/followers/rehan-qx?color=9900FF&style=flat-square&label=%20) |
+| **Mohid** | ![](https://img.shields.io/badge/Commits-1.2k+-00F0FF?style=flat-square) | ![](https://img.shields.io/badge/Repos-15+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
+| **Rehan** | ![](https://img.shields.io/badge/Commits-200+-00F0FF?style=flat-square) | ![](https://img.shields.io/badge/Repos-5+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
 </div>
 
 </div>
