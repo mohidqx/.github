@@ -139,8 +139,10 @@ through the digital veil.
 
 | 🟢 OPERATIVE | 🛠️ TOTAL_COMMITS | 🏗️ REPOSITORIES | 🤝 FOLLOWERS |
 | :--- | :--- | :--- | :--- |
-| **Mohid** | ![](https://img.shields.io/badge/Commits-1.2k+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-15+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
-| **Rehan** | ![](https://img.shields.io/badge/Commits-200+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-5+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
+| **[r00t:~#]** | ![](https://img.shields.io/badge/Commits-1.2k+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-25+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-8-9900FF?style=flat-square) |
+| **n1xr00t** | ![](https://img.shields.io/badge/Commits-150+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-5+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
+| **zero_trst** | ![](https://img.shields.io/badge/Commits-80+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-16+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-5-9900FF?style=flat-square) |
+| **2.0²·⁰** | ![](https://img.shields.io/badge/Commits-10+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-2+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
 </div>
 
 </div>
