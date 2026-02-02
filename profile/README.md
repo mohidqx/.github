@@ -9,7 +9,7 @@
   ![Status](https://img.shields.io/badge/Status-OPERATIONAL-success?style=for-the-badge&logo=kalilinux)
   ![Focus](https://img.shields.io/badge/Focus-Network_Warfare-red?style=for-the-badge&logo=hackthebox)
   ![Lang](https://img.shields.io/badge/Core-Python_Go_C++-blue?style=for-the-badge&logo=python)
-  ![📍](https://img.shields.io/badge/%F0%9F%93%8D-Pakistan-yellowgreen?style=flat)
+  ![📍](https://img.shields.io/badge/%F0%9F%93%8D-Pakistan-yellowgreen?style=for-the-badge&logo=map)
 </div>
 
 ---
