@@ -21,7 +21,7 @@
 <br>
 
 <div align="left">
-CYBEROPS is an elite collective bridging the critical gap 
+T̷̨̘͇̲̫̐̔̔̉̔̓̈̾̈̈́͂̓̑̀̕̕ͅé̵̻̲̬̘̣̝̦͉̼͙̹̳̺͓̜̪̘̗̯͓͍̞͍̬̙̳͛͆̃͑̾̊̃̏̈́̓̍̊̇̎̎̀̕͝ȁ̸̢̧̧̗̮̟͓̲̬̥m̵̧̡̧̛͉̲̯̝͎̲̬̩͉̯̫͔̗̤̬̜͉̥̞̃̋͗̓͆̊͌̃̉͗͂͝͝C̸̢̛̝̒̈́͗̓̾̀̾̀̓̊͒̍̚ẙ̶̡̨̥̦͇͕̜͔̞̹̟͉̦̺̜̩̥̐̽̿̆͑͑͗̉̿͊̍̿̾̏͌͝͝ͅb̶̨̢̡̧̝̻̗̝͍̱̫̬̬̱̜͈͔̤̝̜̬̹̺͉̼́ͅe̷̡̡̥̫͍̗̭̳̺̲͙̬̙̫̼̟̘̟̔̈́̽͌̍̈́̇̌͑́̒̊͂̔̄͂̕͜͝ṛ̶̡̛̫̜͖̟͇̹̱͉̱̯̤̙̳̰̦͙̣̤̃̓̋͒̆̐̀̒̐͂̒̆̓̏̈͛̃͆͛͊͑̎̚͝ͅO̴̟̿̒̈̉́̿͛̈́͠p̷͕͙̘̣̯̻̪͉͇̹̈̈́̃́̏â̵̡̢͚̞̲͇͈̲̦̠̖̩̰͉͈̈́̂̔̓̓̊̈͊̅̈́̇͋̓̚͘̕͠ is an elite collective bridging the critical gap 
 between theoretical vulnerability research and weaponized 
 implementation.
 
