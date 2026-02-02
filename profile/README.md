@@ -134,11 +134,12 @@ through the digital veil.
     TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0 <br>
     -----END PGP SIGNATURE-----
   </p>
-<div align="center">
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mohid0x01&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" alt="GitHub Stats" width="400" />
-<br>
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mohid0x01&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" alt="Top Languages" width="350" />
-</div>
+### 📊 SYSTEM_METRICS (Real-time)
+
+| 🟢 OPERATIVE | 🛠️ TOTAL_COMMITS | 🏗️ REPOSITORIES | 🤝 FOLLOWERS |
+| :--- | :--- | :--- | :--- |
+| **Mohid** | ![Commits](https://img.shields.io/github/commits-誠/mohid0x01?color=00F0FF&style=flat-square&label=%20) | ![Repos](https://img.shields.io/github/repos-誠/mohid0x01?color=FF0055&style=flat-square&label=%20) | ![Followers](https://img.shields.io/github/followers/mohid0x01?color=9900FF&style=flat-square&label=%20) |
+| **Rehan** | ![Commits](https://img.shields.io/github/commits-誠/rehan-qx?color=00F0FF&style=flat-square&label=%20) | ![Repos](https://img.shields.io/github/repos-誠/rehan-qx?color=FF0055&style=flat-square&label=%20) | ![Followers](https://img.shields.io/github/followers/rehan-qx?color=9900FF&style=flat-square&label=%20) |
 </div>
 
 </div>
