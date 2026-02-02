@@ -130,7 +130,7 @@ through the digital veil.
 <div align="center">
   <p style="font-family: monospace; font-size: 10px; color: #30363d;">
     -----BEGIN PGP SIGNATURE-----<br>
-    VERSION: CYBEROPS_KERNEL_V5.0<br>
+    VERSION: Dreamers <br>
     TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0 <br>
     -----END PGP SIGNATURE-----
   </p>
