@@ -110,7 +110,7 @@ through the digital veil.
             <td align="center">
         <a href="https://github.com/mtr-x-cyberops">
           <img src="https://github.com/mtr-x-cyberops.png" width="80px;" style="border-radius:50%" alt="2.0"/><br />
-          <sub><b>2.0 (Core)</b></sub>
+          <sub><b>2.0²·⁰ (Core)</b></sub>
         </a>
       </td>
     </tr>
@@ -131,7 +131,7 @@ through the digital veil.
   <p style="font-family: monospace; font-size: 10px; color: #30363d;">
     -----BEGIN PGP SIGNATURE-----<br>
     VERSION: Dreamers <br>
-    TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0 <br>
+    TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0²·⁰ <br>
     -----END PGP SIGNATURE-----
   </p>
   
