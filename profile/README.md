@@ -66,11 +66,25 @@
 
 ---
 
-<div align="center">
-  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=mohid0x01&theme=merko&_t=1770000924725&hide_border=true&bg_color=000000" alt="Stats" />
-  
-  ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=rehan-qx&_t=1770002201014)
-  ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Bahawal-Ali-Official&_t=1770002201014)
+<details>
+  <summary><b>👥 Team CyberOps Operatives</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/mohid0x01">
+      <img src="https://www.readmecodegen.com/api/github-stats/svg?username=mohid0x01&theme=merko&hide_border=true&bg_color=000000" height="160" alt="Mohid Stats" />
+    </a>
+    
+  <a href="https://github.com/rehan-qx">
+      <img src="https://www.readmecodegen.com/api/github-stats/svg?username=rehan-qx&theme=merko&hide_border=true&bg_color=000000" height="160" alt="Rehan Stats" />
+    </a>
+    
+  <a href="https://github.com/Bahawal-Ali-Official">
+      <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Bahawal-Ali-Official&theme=merko&hide_border=true&bg_color=000000" height="160" alt="Bahawal Stats" />
+    </a>
+  </div>
+</details>
+
+
   <br>
   <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
