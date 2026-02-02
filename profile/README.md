@@ -1,156 +1,125 @@
-<div align="center" style="background-color: #000000; padding: 20px;">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=CYBEROPS+PROJECT;%2F%2F+BLACK_EDITION+INITIATED;OFFENSIVE+CYBER+WARFARE+COLLECTIVE;WE_OWN_THE_NIGHT." alt="Typing Header" style="border-bottom: 3px solid #D00000; padding-bottom: 20px;" />
-
-<br><br>
-
-<div align="center" style="background-color: #0a0a0a; border: 1px solid #333; border-radius: 5px; max-width: 800px; margin-bottom: 20px; box-shadow: 0 0 10px rgba(208, 0, 0, 0.2);">
-  <div style="background-color: #1a1a1a; padding: 5px 10px; text-align: left; border-bottom: 1px solid #333;">
-    <span style="color: #D00000; margin-right: 5px;">🔴</span>
-    <span style="color: #FFFFFF; font-family: monospace; font-size: 0.9em;">root@cyberops:~# status_check.sh</span>
-  </div>
-  <div style="padding: 15px; text-align: center;">
-    <a href="https://github.com/CYBEROPS"><img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-D00000?style=for-the-badge&labelColor=000000&logo=linux&logoColor=FFF" alt="Status"></a>
-    <a href="https://github.com/CYBEROPS"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL_Ø_ACCESS-D00000?style=for-the-badge&labelColor=000000&logo=htop&logoColor=FFF" alt="Clearance"></a>
-    <a href="https://github.com/CYBEROPS"><img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_OPERATIONS-D00000?style=for-the-badge&labelColor=000000&logo=kali-linux&logoColor=FFF" alt="Focus"></a>
-  </div>
-</div>
-
-<div align="center" style="background-color: #000000; border-left: 3px solid #D00000; max-width: 800px; text-align: left; padding: 15px; margin-bottom: 30px;">
-  <h3 style="color: #FFFFFF; font-family: monospace; margin-top: 0;"><code>> cat mission_directive.txt</code></h3>
-  <p style="color: #cccccc; font-family: monospace; font-size: 1.1em; line-height: 1.5;">
-    <b>CYBEROPS</b> exists in the shadows between vulnerability research and weaponized implementation. We do not rely on existing tools; we forge the capabilities required to penetrate, analyze, and dominate the digital battlespace. <span style="color: #D00000;">We see everything.</span>
-  </p>
-</div>
-
-<h2 align="center" style="color: #FFFFFF; font-family: monospace; border-bottom: 1px solid #333; padding-bottom: 10px; max-width: 800px;">
-  <span style="color: #D00000;">[</span> /bin/arsenal_deployed <span style="color: #D00000;">]</span>
-</h2>
-
-<table align="center" style="background-color: #0a0a0a; border-collapse: collapse; max-width: 800px; width: 100%; border: 1px solid #333;">
-  <thead style="background-color: #1a1a1a; color: #FFFFFF;">
-    <tr>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">⚔️ Tool Designation</th>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">🎯 Vector</th>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">🧬 Core</th>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">📜 Intel Brief</th>
-    </tr>
-  </thead>
-  <tbody style="color: #cccccc; font-family: monospace;">
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/NetReaper" style="color: #D00000; text-decoration: none;">NetReaper</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Surveillance</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Python</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Automated packet harvesting & credential extraction.</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/AutoInjectX" style="color: #D00000; text-decoration: none;">AutoInjectX</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Exploitation</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Python</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Auto XSS payload injector & vulnerability scanner.</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/GhostSession" style="color: #D00000; text-decoration: none;">GhostSession</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Hijacking</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>JavaScript</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Instagram session persistence & token utility.</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/Recon-Subdomain" style="color: #D00000; text-decoration: none;">Recon-Subdomain</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Reconnaissance</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Python</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Single-file orchestrator for domain enumeration.</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/TwitterPro" style="color: #D00000; text-decoration: none;">TwitterPro</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Automation</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>JavaScript</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Browser extension for automated X/Twitter interaction.</td>
-    </tr>
-      <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/BDEFS" style="color: #D00000; text-decoration: none;">BDEFS</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Forensics</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>Python</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Browser Data Extractor & social engineering toolkit.</td>
-    </tr>
-  </tbody>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=900&lines=CYBEROPS_NEXUS;SYSTEM_OVERRIDE;WEAPONIZED_CODE" alt="Glitch Header" style="margin-bottom: -10px;" />
 
 <br>
 
-<h2 align="center" style="color: #FFFFFF; font-family: monospace; border-bottom: 1px solid #333; padding-bottom: 10px; max-width: 800px;">
-  <span style="color: #D00000;">[</span> /opt/research_labs <span style="color: #D00000;">]</span>
-</h2>
-
-<table align="center" style="background-color: #0a0a0a; border-collapse: collapse; max-width: 800px; width: 100%; border: 1px solid #333;">
-  <thead style="background-color: #1a1a1a; color: #FFFFFF;">
-    <tr>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">🧪 Prototype ID</th>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">🧬 Stack</th>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">🚦 Status</th>
-      <th align="left" style="padding: 12px; border-bottom: 2px solid #D00000;">🔮 Objective</th>
-    </tr>
-  </thead>
-  <tbody style="color: #cccccc; font-family: monospace;">
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/SAKAMOTO-MD" style="color: #D00000; text-decoration: none;">SAKAMOTO-MD</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>JavaScript</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><span style="color: #FFD700;">🟡 Dev</span></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">High-performance WA/Discord bot.</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/AI-Chatbot" style="color: #D00000; text-decoration: none;">AI-Chatbot</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>TypeScript</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><span style="color: #FFD700;">🟡 Dev</span></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Experimental AI interface.</td>
-    </tr>
-    <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><b><a href="https://github.com/mohidqx/personal-trader-nest" style="color: #D00000; text-decoration: none;">personal-trader</a></b></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><code>TypeScript</code></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;"><span style="color: #00BFFF;">🔵 Alpha</span></td>
-      <td style="padding: 10px; border-bottom: 1px solid #222;">Financial trading algorithm.</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://github.com/CYBEROPS">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=linux&logoColor=000&labelColor=0a0a0a" alt="System Online">
+  </a>
+  <a href="https://github.com/CYBEROPS">
+    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-FF0055?style=for-the-badge&logo=kali-linux&logoColor=000&labelColor=0a0a0a" alt="Security Offensive">
+  </a>
+  <a href="https://github.com/CYBEROPS">
+    <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-9900FF?style=for-the-badge&logo=gnu-privacy-guard&logoColor=000&labelColor=0a0a0a" alt="Encryption">
+  </a>
+</p>
 
 <br>
 
-<div align="center" style="max-width: 800px; text-align: left;">
+<div align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; box-shadow: 0 0 20px rgba(0, 240, 255, 0.1);">
+  <div style="background-color: #161b22; padding: 10px; border-bottom: 1px solid #30363d; border-radius: 6px 6px 0 0; display: flex; align-items: center;">
+    <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+    <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+    <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+    <span style="color: #8b949e; font-family: monospace; font-size: 12px; margin-left: 10px;">root@cyberops:~</span>
+  </div>
+  <div style="padding: 20px; font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
+    <span style="color: #27c93f;">root@cyberops:~$</span> ./display_manifesto.sh<br>
+    <br>
+    <span style="color: #00F0FF;">> ESTABLISHING SECURE CONNECTION... [OK]</span><br>
+    <span style="color: #00F0FF;">> DECRYPTING PAYLOAD... [OK]</span><br>
+    <br>
+    <b>CYBEROPS</b> is an elite collective bridging the critical gap between theoretical vulnerability research and weaponized implementation.<br>
+    We do not just find flaws; we engineer the eyes that see through the digital veil.<br>
+    <br>
+    <span style="color: #27c93f;">root@cyberops:~$</span> <span style="animation: blink 1s infinite;">█</span>
+  </div>
+</div>
+
+<br>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9900FF&center=true&vCenter=true&width=435&lines=LOADING_OPERATIONAL_MODULES..." alt="Loading Modules" />
+</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,wireshark,metasploit&perline=15&theme=dark" alt="Skills" />
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
+<br>
+
+<h2 align="left">
+  <img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=00F0FF&labelColor=00F0FF&color=000000" alt="Arsenal Dir">
+</h2>
+
+| 📡 Surveillance & Recon | 💥 Exploitation & Attack | 🛡️ Defense & Forensics |
+| :--- | :--- | :--- |
+| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)**<br>Packet harvesting & credential extraction engine. | **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)**<br>Automated XSS payload injector. | **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)**<br>Browser Data Extractor & forensics toolkit. |
+| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)**<br>Domain enumeration orchestrator. | **[💀 GhostSession](https://github.com/mohidqx/GhostSession)**<br>Session persistence & token hijacking. | **[🔐 CyberOps-Vault](https://github.com/mohidqx)**<br>Secure storage protocols (Internal). |
+| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)**<br>Social automata & bot interaction. | **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)**<br>War-games training scenarios. | **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)**<br>Project management utility. |
+
+<br>
+
+<h2 align="left">
+  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=9900FF&labelColor=9900FF&color=000000" alt="Research Dir">
+</h2>
+
+| Project ID | Stack | Status | Objective |
+| :--- | :--- | :--- | :--- |
+| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)** | `JS/Node` | 🟡 `Dev` | High-performance Bot Integration. |
+| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TS/LLM` | 🟡 `Dev` | Conversational Intelligence Interface. |
+| **[📉 personal-trader](https://github.com/mohidqx/personal-trader-nest)** | `NestJS` | 🔵 `Alpha` | Algorithmic Financial Trading. |
+| **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `React` | 🟢 `Live` | Geospatial Tracking System. |
+
+<br>
+
 <details>
-<summary><h3 style="display:inline; cursor:pointer; color: #D00000; font-family: monospace;"><code>> /var/archives (Classified Data) [CLICK TO EXPAND]</code></h3></summary>
+<summary>
+  <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=FF0055" alt="Restricted Access"> 
+  <b style="color: #8b949e; cursor: pointer;"> Click to access /var/archives</b>
+</summary>
 <br>
-<table width="100%" style="background-color: #0a0a0a; color: #ccc; border: 1px solid #333;">
-<thead style="background-color: #1a1a1a; color: #FFF;"><tr><th align="left" style="padding: 8px;">📦 Resource</th><th align="left" style="padding: 8px;">🔐 Access</th></tr></thead>
-<tbody>
-<tr><td style="padding: 8px; border-bottom: 1px solid #222;">WhoAmi</td><td style="padding: 8px; border-bottom: 1px solid #222;">🚫 <code>Top Secret</code></td></tr>
-<tr><td style="padding: 8px; border-bottom: 1px solid #222;">AjwaRestaurant</td><td style="padding: 8px; border-bottom: 1px solid #222;">🚫 <code>Private Client</code></td></tr>
-<tr><td style="padding: 8px; border-bottom: 1px solid #222;">animals0x01</td><td style="padding: 8px; border-bottom: 1px solid #222;">🚫 <code>Internal Logic</code></td></tr>
-</tbody>
+<table width="100%">
+<tr><th>📦 Resource</th><th>🔐 Access</th><th>📄 Details</th></tr>
+<tr><td><b>WhoAmi</b></td><td>🚫 <code>Top Secret</code></td><td>Identity resolution protocols.</td></tr>
+<tr><td><b>AjwaRestaurant</b></td><td>🚫 <code>Private</code></td><td>Client architecture.</td></tr>
+<tr><td><b>mohid0x01-Portfolio</b></td><td>🔒 <code>Legacy</code></td><td>Deprecated source code.</td></tr>
+<tr><td><b>vite-react</b></td><td>🔒 <code>Sandbox</code></td><td>Development environment.</td></tr>
 </table>
 </details>
-</div>
 
-<br><br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
+<br>
 
-<h3 align="center" style="color: #FFFFFF; font-family: monospace;"><code>> ACTIVE_OPERATIVE_UNITS</code></h3>
+<h3 align="center"><code>> SQUAD_LINK_ESTABLISHED</code></h3>
+
 <div align="center">
   <a href="https://github.com/mohid0x01">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=D00000&icon_color=FFFFFF&text_color=cccccc" height="150" alt="Mohid Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" height="160" alt="Mohid Stats" />
   </a>
   <a href="https://github.com/rehan-qx">
-    <img src="https://github-readme-stats.vercel.app/api?username=rehan-qx&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=D00000&icon_color=FFFFFF&text_color=cccccc" height="150" alt="Rehan Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rehan-qx&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" height="160" alt="Rehan Stats" />
+  </a>
+  <a href="https://github.com/Bahawal-Ali-Official">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bahawal-Ali-Official&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" height="160" alt="Bahawal Stats" />
   </a>
 </div>
 
 <br>
 
-<div align="center" style="font-family: monospace; color: #555; margin-top: 30px; border-top: 1px solid #222; padding-top: 20px;">
-  <p>
-    <span style="color: #D00000;">-----BEGIN SYSTEM SIGNATURE-----</span><br>
-    <code>KERNEL: CYBEROPS_BLK_V5.0 // INTEGRITY: VERIFIED</code><br>
-    <span style="color: #D00000;">-----END SYSTEM SIGNATURE-----</span>
+<div align="center">
+  <p style="font-family: monospace; font-size: 10px; color: #30363d;">
+    -----BEGIN PGP SIGNATURE-----<br>
+    VERSION: CYBEROPS_KERNEL_V5.0<br>
+    STATUS: INTEGRITY_VERIFIED<br>
+    -----END PGP SIGNATURE-----
   </p>
-  <p style="font-size: 0.8em;">© 2026 CYBEROPS COLLECTIVE. ALL RIGHTS RESERVED.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=50&section=footer&animation=fadeIn" style="opacity: 0.5;" />
 </div>
 
-</div> ```
+</div>
