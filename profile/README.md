@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/89724864?s=400&v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 240, 255, 0.3);" alt="TeamCyberOps Logo" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=60&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+to+TeamCyberOps;Establishing+Secure+Connection...;Decrypting+Payload..." alt="Glitch Header" style="margin-bottom: -10px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=60&duration=3000&pause=1000&color=#808080&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+to+TeamCyberOps" alt="Glitch Header" style="margin-bottom: -10px;" />
 
 <br>
 
@@ -44,7 +44,7 @@ root@cyberops:~$ █
 </h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,wireshark,metasploit,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
 </div>
 
 <br>
