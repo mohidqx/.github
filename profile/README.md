@@ -39,7 +39,7 @@ through the digital veil.
 <br>
 
 <h2 align="left">
-<img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=555555" alt="Arsenal Dir">
+<img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=000" alt="Arsenal Dir">
 </h2>
 
 | 📡 Surveillance & Recon | 💥 Exploitation & Attack | 🛡️ Defense & Forensics |
@@ -52,7 +52,7 @@ through the digital veil.
 <br>
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=555555" alt="Research Dir">
+  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=000" alt="Research Dir">
 </h2>
 
 | Project ID | Stack | Status | Objective |
@@ -66,7 +66,7 @@ through the digital veil.
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=FF0055" alt="Restricted Access"> 
+  <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=000" alt="Restricted Access"> 
   <b style="color: #8b949e; cursor: pointer;"> Click to view all system resources</b>
 </summary>
 <br>
