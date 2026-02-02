@@ -29,9 +29,6 @@ We do not just find flaws; we engineer the eyes that see
 through the digital veil.
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=retro-tech&weight=600&size=20&pause=1000&color=9900FF&center=true&vCenter=true&width=435&lines=TeamCyberOps+Active+Arsenal" alt="Manifestro" />
-</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
@@ -94,26 +91,26 @@ through the digital veil.
     <tr>
       <td align="center">
         <a href="https://github.com/mohid0x01">
-          <img src="https://github.com/mohid0x01.png" width="80px;" style="border-radius:50%" alt="Mohid"/><br />
-          <sub><b>Mohid (Lead)</b></sub>
+          <img src="https://github.com/mohid0x01.png" width="80px;" style="border-radius:50%" alt="[r00t:~#]"/><br />
+          <sub><b> [r00t:~#] (Lead)</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/rehan-qx">
-          <img src="https://github.com/rehan-qx.png" width="80px;" style="border-radius:50%" alt="Rehan"/><br />
-          <sub><b>Rehan (Core)</b></sub>
+          <img src="https://github.com/rehan-qx.png" width="80px;" style="border-radius:50%" alt="n1xr00t"/><br />
+          <sub><b> n1xr00t (Core)</b></sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Bahawal-Ali-Official">
-          <img src="https://github.com/Bahawal-Ali-Official.png" width="80px;" style="border-radius:50%" alt="Bahawal"/><br />
-          <sub><b>Bahawal (Core)</b></sub>
+          <img src="https://github.com/Bahawal-Ali-Official.png" width="80px;" style="border-radius:50%" alt="zero_trst"/><br />
+          <sub><b>zero_trst (Core)</b></sub>
         </a>
       </td>
             <td align="center">
         <a href="https://github.com/mtr-x-cyberops">
-          <img src="https://github.com/mtr-x-cyberops.png" width="80px;" style="border-radius:50%" alt="Taha"/><br />
-          <sub><b>Taha (Core)</b></sub>
+          <img src="https://github.com/mtr-x-cyberops.png" width="80px;" style="border-radius:50%" alt="2.0"/><br />
+          <sub><b>2.0 (Core)</b></sub>
         </a>
       </td>
     </tr>
@@ -134,8 +131,7 @@ through the digital veil.
   <p style="font-family: monospace; font-size: 10px; color: #30363d;">
     -----BEGIN PGP SIGNATURE-----<br>
     VERSION: CYBEROPS_KERNEL_V5.0<br>
-    TEAM: MOHID | REHAN | BAHAWAL<br>
-    STATUS: INTEGRITY_VERIFIED<br>
+    TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0 <br>
     -----END PGP SIGNATURE-----
   </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=50&section=footer&animation=fadeIn" style="opacity: 0.5;" />
