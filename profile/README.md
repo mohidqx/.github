@@ -134,7 +134,9 @@ through the digital veil.
     TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0 <br>
     -----END PGP SIGNATURE-----
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=50&section=footer&animation=fadeIn" style="opacity: 0.5;" />
+<div align="center">
+  <img src="./stats.svg" alt="Mohid's GitHub Stats" />
+</div>
 </div>
 
 </div>
