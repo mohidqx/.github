@@ -1,31 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header"/>
-  <h1 align="center" style="font-size: 3em; font-weight: bold; margin-top: -60px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&width=600&lines=CYBEROPS+COLLECTIVE;OFFENSIVE+OPERATIONS;VULNERABILITY+RESEARCH;WEAPONIZED+IMPLEMENTATION" alt="Typing Effect" />
-  </h1>
-</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px; margin-bottom: -20px;" alt="Cyberpunk Banner">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=800&lines=INITIALIZING+CYBEROPS+NEXUS...;OFFENSIVE+SECURITY+COLLECTIVE;WEAPONIZING+VULNERABILITY+RESEARCH;WE+SEE+EVERYTHING." alt="Typing Effect" />
+  </a>
+</h1>
 
 <p align="center">
-  <a href="https://github.com/CYBEROPS">
-    <img src="https://img.shields.io/badge/EST.-202X-000?style=for-the-badge&labelColor=0d1117&color=22c55e&logo=git&logoColor=white" alt="Established">
-  </a>
-  <a href="https://github.com/CYBEROPS">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-000?style=for-the-badge&labelColor=0d1117&color=3b82f6&logo=instructure&logoColor=white" alt="Status">
-  </a>
-  <a href="https://github.com/CYBEROPS">
-    <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_OPS-000?style=for-the-badge&labelColor=0d1117&color=f59e0b&logo=target&logoColor=white" alt="Focus">
-  </a>
+  <img src="https://img.shields.io/badge/OPERATIONAL_STATUS-ACTIVE-00F0FF?style=for-the-badge&logo=prometheus&logoColor=000&labelColor=000" alt="Status">
+  <img src="https://img.shields.io/badge/CLEARANCE_LEVEL-TIER_1_ALPHA-9900FF?style=for-the-badge&logo=crowdstrike&logoColor=000&labelColor=000" alt="Clearance">
+  <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_WARFARE-FF0055?style=for-the-badge&logo=kali-linux&logoColor=000&labelColor=000" alt="Focus">
 </p>
 
-<div align="center">
+<br>
+
+<div align="center" style="border: 2px solid #00F0FF; border-radius: 15px; padding: 20px; background: #0a0a0a;">
   <table>
     <tr>
-      <td align="center" width="60">
-        <img src="https://cdn-icons-png.flaticon.com/512/2083/2083256.png" width="50" alt="Eye Icon"/>
+      <td width="100" align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/9684/9684976.png" width="80" alt="Cyber Skull"/>
       </td>
       <td align="left">
-        <h3><samp>user@cyberops:~$ mission_brief</samp></h3>
-        <b>CYBEROPS</b> is an elite offensive security collective bridging the critical gap between vulnerability research and weaponized implementation. We build the eyes that see everything.
+        <h3 style="color: #00F0FF; margin-bottom: 10px;"><code>> MISSION DIRECTIVE [CLASSIFIED]</code></h3>
+        <p style="font-family: monospace; font-size: 1.1em; color: #e0e0e0;">
+          <b>CYBEROPS</b> is an elite collective bridging the critical gap between theoretical vulnerability research and weaponized implementation. We do not just find flaws; we engineer the eyes that see through the digital veil.
+        </p>
       </td>
     </tr>
   </table>
@@ -33,77 +34,130 @@
 
 <br>
 
----
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&pause=1000&color=9900FF&background=00000000&center=true&vCenter=true&width=500&lines=OPERATIONAL+TECH+STACK" alt="Tech Stack Title" />
+</h2>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2942/2942861.png" width="25"/> `/bin/arsenal` (Featured Tools)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,gcp,azure,mongodb,postgresql,redis,nginx,git,githubactions,grafana,prometheus,wireshark,metasploit&perline=12&theme=dark" alt="My Skills" />
+  </a>
+</p>
 
-A collection of weaponized utilities designed for specific operational phases.
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20px" style="border-radius: 10px;" alt="Divider">
+<br>
 
-| 🛠️ Tool Name | 🎯 Operational Type | 💻 Language | 📝 Briefing |
+<h2 align="left" style="color: #00F0FF;">
+  <code>> /bin/arsenal_loaded (Featured Weaponry)</code>
+</h2>
+
+| ⚔️ Toolframe | 🎯 Operational Vector | 🧬 Core Code | 📜 Intel Brief |
 | :--- | :--- | :--- | :--- |
-| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)** | 📡 `Surveillance` | `Python` | Automated packet harvesting & credential extraction. |
-| **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)** | 💥 `Exploitation` | `Python` | Auto XSS payload injector & vulnerability scanner. |
-| **[💀 GhostSession](https://github.com/mohidqx/GhostSession)** | 🕵️ `Hijacking` | `JavaScript` | Instagram session persistence & token utility. |
-| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)** | 🗺️ `Reconnaissance` | `Python` | Single-file orchestrator for domain enumeration. |
-| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)** | 🦾 `Automation` | `JavaScript` | Browser extension for automated X/Twitter interactions. |
-| **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)** | 🔍 `Forensics` | `Python` | Browser Data Extractor & social engineering toolkit. |
-| **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)** | ⚔️ `Training` | `TypeScript` | Official war-games and training scenarios. |
+| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)** | 📡 `Surveillance Ops` | `Python` | Automated packet harvesting & credential extraction engine. |
+| **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)** | 💥 `Exploitation` | `Python` | Automated XSS payload injector & vulnerability scanner. |
+| **[💀 GhostSession](https://github.com/mohidqx/GhostSession)** | 🕵️ `Identity Theft` | `JavaScript` | Instagram session persistence & token hijacking utility. |
+| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)** | 🗺️ `Deep Recon` | `Python` | Single-file orchestrator for domain enumeration pipelines. |
+| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)** | 🦾 `Social Automata` | `JavaScript` | Browser extension for automated interaction on X (Twitter). |
+| **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)** | 🔍 `Digital Forensics` | `Python` | Browser Data Extractor & social engineering toolkit. |
+| **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)** | 🎓 `Live Fire Drill` | `TypeScript` | Official war-games and training scenarios. |
 
 <br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3094/3094923.png" width="25"/> `/opt/research` (Experimental & R&D)
+<h2 align="left" style="color: #9900FF;">
+  <code>> /opt/research_labs (Experimental Protocols)</code>
+</h2>
 
-Bleeding-edge projects currently in active development or prototype phase.
-
-| 🧪 Project | 🧬 Stack | 🚦 Status | 🔮 Purpose |
+| 🧪 Prototype ID | 🧬 Stack Matrix | 🚦 Current Status | 🔮 Objective |
 | :--- | :--- | :--- | :--- |
-| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)** | `JavaScript` | 🟡 `Dev` | High-performance WA/Discord bot integration. |
-| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TypeScript` | 🟡 `Dev` | Experimental AI conversational interface. |
-| **[📉 personal-trader](https://github.com/mohidqx/personal-trader-nest)** | `TypeScript` | 🔵 `Alpha` | Financial trading algorithm prototype. |
-| **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `TypeScript` | 🟢 `Live` | Web mapping & geospatial tracking system. |
-| **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)** | `TypeScript` | 🟢 `Live` | Project management utility module. |
+| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)** | `JavaScript` | 🟡 `In Dev` | High-performance WhatsApp/Discord bot integration. |
+| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TypeScript` | 🟡 `In Dev` | Experimental AI conversational interface prototype. |
+| **[📉 personal-trader](https://github.com/mohidqx/personal-trader-nest)** | `TypeScript` | 🔵 `Alpha Test` | Financial trading algorithm prototype. |
+| **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `TypeScript` | 🟢 `Deployed` | Web mapping and geospatial tracking application. |
+| **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)** | `TypeScript` | 🟢 `Deployed` | Project management utility module. |
 
 <br>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2965/2965335.png" width="25"/> `/var/archives` (Legacy & Internal)
-
-Classified internal resources, datasets, and deprecated project structures.
-
-| 📦 Resource ID | 🗂️ Category | 🔐 Access Level | 📄 Content Details |
-| :--- | :--- | :--- | :--- |
-| **Robbins_Pathology** | `Education` | 🔒 `Restricted` | Medical data resources. |
-| **WhoAmi** | `Identity` | 🚫 `Private` | Identity resolution protocols. |
-| **AjwaRestaurant** | `Client` | 🚫 `Private` | Client architecture & backend. |
-| **sim-data** | `Dataset` | 🔒 `Restricted` | Simulation datasets. |
-| **mohid0x01-Portfolio** | `Legacy` | 🚫 `Private` | Deprecated portfolio source. |
-| **animals0x01** | `Internal` | 🚫 `Private` | Internal logic structures. |
-| **ayesha-s-birthday** | `Misc Events` | 🔒 `Restricted` | Miscellaneous web events. |
-| **vite-react** | `Sandbox` | 🚫 `Private` | Development sandbox environment. |
+<details>
+<summary><h2 style="display:inline; cursor:pointer; color: #FF0055;"><code>> /var/archives (Legacy & Classified Data) [CLICK TO EXPAND]</code></h2></summary>
+<br>
+<table width="100%">
+<tr>
+<th>📦 Resource ID</th>
+<th>🗂️ Category</th>
+<th>🔐 Access Level</th>
+<th>📄 Content Details</th>
+</tr>
+<tr>
+<td><b>Robbins_Pathology</b></td>
+<td><code>Education</code></td>
+<td>🔒 <code>Restricted</code></td>
+<td>Medical data resources.</td>
+</tr>
+<tr>
+<td><b>WhoAmi</b></td>
+<td><code>Identity</code></td>
+<td>🚫 <code>Top Secret</code></td>
+<td>Identity resolution protocols.</td>
+</tr>
+<tr>
+<td><b>AjwaRestaurant</b></td>
+<td><code>Client</code></td>
+<td>🚫 <code>Private</code></td>
+<td>Client architecture & backend.</td>
+</tr>
+<tr>
+<td><b>sim-data</b></td>
+<td><code>Dataset</code></td>
+<td>🔒 <code>Restricted</code></td>
+<td>Simulation datasets.</td>
+</tr>
+<tr>
+<td><b>mohid0x01-Portfolio</b></td>
+<td><code>Legacy</code></td>
+<td>🔒 <code>Deprecated</code></td>
+<td>Old portfolio source.</td>
+</tr>
+<tr>
+<td><b>animals0x01</b></td>
+<td><code>Internal</code></td>
+<td>🚫 <code>Private</code></td>
+<td>Internal logic structures.</td>
+</tr>
+<tr>
+<td><b>vite-react</b></td>
+<td><code>Sandbox</code></td>
+<td>🚫 <code>Dev Only</code></td>
+<td>Development sandbox.</td>
+</tr>
+</table>
+</details>
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="20px" style="border-radius: 10px;" alt="Divider">
+<br>
 
----
-
-### 👥 `/etc/operatives` (Active Team)
-
+<h3 align="center" style="color: #00F0FF;"><code>> ACTIVE_OPERATIVES_</code></h3>
 <div align="center">
   <a href="https://github.com/mohid0x01">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Mohid Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=radical&hide_border=false&bg_color=0a0a0a&title_color=00F0FF&icon_color=9900FF" height="150" alt="Mohid Stats" />
   </a>
   <a href="https://github.com/rehan-qx">
-    <img src="https://github-readme-stats.vercel.app/api?username=rehan-qx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Rehan Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rehan-qx&show_icons=true&theme=radical&hide_border=false&bg_color=0a0a0a&title_color=00F0FF&icon_color=9900FF" height="150" alt="Rehan Stats" />
   </a>
   <a href="https://github.com/Bahawal-Ali-Official">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bahawal-Ali-Official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Bahawal Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Bahawal-Ali-Official&show_icons=true&theme=radical&hide_border=false&bg_color=0a0a0a&title_color=00F0FF&icon_color=9900FF" height="150" alt="Bahawal Stats" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=60&section=footer"/>
   <br>
-  <code>-----BEGIN PGP SIGNATURE-----</code><br>
-  <code>Version: CYBEROPS OS v3.1 (Secure Kernel)</code><br>
-  <samp>© 2026 CYBEROPS COLLECTIVE. System Protected.</samp>
+  <samp style="color: #00F0FF;">-----BEGIN PGP SIGNATURE-----</samp><br>
+  <samp style="color: #9900FF;">Hash: CYBEROPS__KERNEL_V4.0</samp><br>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FF0055&background=00000000&center=true&vCenter=true&width=400&lines=©+2026+CYBEROPS+COLLECTIVE.;SYSTEM+INTEGRITY+VERIFIED.;END_OF_TRANSMISSION." alt="Footer signature" />
 </div>
+
+</div> ```
