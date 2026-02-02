@@ -52,7 +52,7 @@
 | Project | Type | Description |
 | :--- | :--- | :--- |
 | **[📚 Robbins_Pathology](https://github.com/mohidqx/Robbins_Pathology)** | `Education` | Medical data/textbook resources on pathological basis of disease. |
-| **[🎂 ayesha-s-birthday-surprise](https://github.com/mohidqx/ayesha-s-birthday-surprise)** | `Misc` | Web-based event project. |
+| **[🎂 ayesha-s-birthday-surprise](https://github.com/mohidqx/ayesha-s-birthday-surprise)** | `Misc` | Web-based event project (Private). |
 | **[💾 sim-data](https://github.com/mohidqx/sim-data)** | `Data` | SIM database reference or simulation data. |
 | **[🔒 WhoAmi](https://github.com/mohidqx/WhoAmi)** | `Internal` | Identity resolution utility (Private). |
 | **[🔒 AjwaRestaurant](https://github.com/mohidqx/AjwaRestaurant)** | `Internal` | Client web architecture (Private). |
@@ -68,6 +68,8 @@
 
 <div align="center">
   <img src="https://www.readmecodegen.com/api/github-stats/svg?username=mohid0x01&theme=merko&_t=1770000924725&hide_border=true&bg_color=000000" alt="Stats" />
+  
+  ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=rehan-qx&_t=1770002201014)
   <br>
   <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
