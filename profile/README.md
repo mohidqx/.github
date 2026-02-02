@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/mohidqx">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=linux&logoColor=000&labelColor=0a0a0a" alt="System Online">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-808080?style=for-the-badge&logo=linux&logoColor=000&labelColor=0a0a0a" alt="System Online">
   </a>
   <a href="https://mohid0x01.vercel.app">
     <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-FF0055?style=for-the-badge&logo=kali-linux&logoColor=000&labelColor=0a0a0a" alt="Security Offensive">
@@ -39,7 +39,7 @@ through the digital veil.
 <br>
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=00F0FF&labelColor=00F0FF&color=000000" alt="Arsenal Dir">
+  <img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=808080&labelColor=00F0FF&color=000000" alt="Arsenal Dir">
 </h2>
 
 | 📡 Surveillance & Recon | 💥 Exploitation & Attack | 🛡️ Defense & Forensics |
