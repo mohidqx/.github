@@ -84,7 +84,6 @@
   </div>
 </details>
 
-
-  <br>
+  <div align="center">
   <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
