@@ -52,7 +52,7 @@ through the digital veil.
 <br>
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=9900FF&labelColor=9900FF&color=000000" alt="Research Dir">
+  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=555555" alt="Research Dir">
 </h2>
 
 | Project ID | Stack | Status | Objective |
