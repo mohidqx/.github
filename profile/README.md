@@ -135,7 +135,9 @@ through the digital veil.
     -----END PGP SIGNATURE-----
   </p>
 <div align="center">
-  <img src="./stats.svg" alt="Mohid's GitHub Stats" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mohid0x01&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" alt="GitHub Stats" width="400" />
+<br>
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mohid0x01&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" alt="Top Languages" width="350" />
 </div>
 </div>
 
