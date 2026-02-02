@@ -119,12 +119,6 @@ through the digital veil.
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/mohid0x01">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=FF0055&text_color=c9d1d9" height="150" alt="Mohid Stats" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
