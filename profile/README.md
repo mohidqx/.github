@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/mohidqx">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000?style=for-the-badge&logo=linux&logoColor=000&labelColor=0a0a0a" alt="System Online">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000?style=for-the-badge&logo=linux&logoColor=7d7f7c&labelColor=0a0a0a" alt="System Online">
   </a>
   <a href="https://mohid0x01.vercel.app">
-    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-000?style=for-the-badge&logo=kali-linux&logoColor=000&labelColor=0a0a0a" alt="Security Offensive">
+    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-000?style=for-the-badge&logo=kali-linux&logoColor=7d7f7c&labelColor=0a0a0a" alt="Security Offensive">
   </a>
   <a href="https://ctfcyberops.vercel.app">
-    <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=000&labelColor=0a0a0a" alt="Encryption">
+    <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=7d7f7c&labelColor=0a0a0a" alt="Encryption">
   </a>
 </p>
 
