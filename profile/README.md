@@ -21,23 +21,13 @@
 <br>
 
 <div align="left">
-
-```bash
-root@cyberops:~
-root@cyberops:~$ ./display_manifesto.sh
-
- > ESTABLISHING SECURE CONNECTION... [OK]
- > DECRYPTING PAYLOAD... [OK]
-
 CYBEROPS is an elite collective bridging the critical gap 
 between theoretical vulnerability research and weaponized 
 implementation.
 
 We do not just find flaws; we engineer the eyes that see 
 through the digital veil.
-
-root@cyberops:~$ █
-```
+</div>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=retro-tech&weight=600&size=20&pause=1000&color=9900FF&center=true&vCenter=true&width=435&lines=TeamCyberOps+Active+Arsenal" alt="Manifestro" />
