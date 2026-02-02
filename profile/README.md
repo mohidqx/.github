@@ -110,6 +110,12 @@ through the digital veil.
           <sub><b>Bahawal (Core)</b></sub>
         </a>
       </td>
+            <td align="center">
+        <a href="https://github.com/mtr-x-cyberops">
+          <img src="https://github.com/mtr-x-cyberops.png" width="80px;" style="border-radius:50%" alt="Taha"/><br />
+          <sub><b>Taha (Core)</b></sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
