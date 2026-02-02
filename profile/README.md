@@ -135,9 +135,9 @@ through the digital veil.
     -----END PGP SIGNATURE-----
   </p>
   
-### 📊 SYSTEM_METRICS
+### 📊 Team
 
-| 🟢 OPERATIVE | 🛠️ TOTAL_COMMITS | 🏗️ REPOSITORIES | 🤝 FOLLOWERS |
+| 🟢 Members | 🛠️ Commits | 🏗️ Repos | 🤝 Followers |
 | :--- | :--- | :--- | :--- |
 | **[r00t:~#]** | ![](https://img.shields.io/badge/Commits-1.2k+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-25+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-8-9900FF?style=flat-square) |
 | **n1xr00t** | ![](https://img.shields.io/badge/Commits-150+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-5+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
