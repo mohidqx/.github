@@ -67,7 +67,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohidqx&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="Stats" />
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=mohid0x01&theme=merko&_t=1770000924725&hide_border=true&bg_color=000000" alt="Stats" />
   <br>
   <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
