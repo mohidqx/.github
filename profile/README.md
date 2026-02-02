@@ -139,8 +139,8 @@ through the digital veil.
 
 | 🟢 OPERATIVE | 🛠️ TOTAL_COMMITS | 🏗️ REPOSITORIES | 🤝 FOLLOWERS |
 | :--- | :--- | :--- | :--- |
-| **Mohid** | ![](https://img.shields.io/badge/Commits-1.2k+-00F0FF?style=flat-square) | ![](https://img.shields.io/badge/Repos-15+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
-| **Rehan** | ![](https://img.shields.io/badge/Commits-200+-00F0FF?style=flat-square) | ![](https://img.shields.io/badge/Repos-5+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
+| **Mohid** | ![](https://img.shields.io/badge/Commits-1.2k+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-15+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
+| **Rehan** | ![](https://img.shields.io/badge/Commits-200+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-5+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
 </div>
 
 </div>
