@@ -71,7 +71,6 @@
   
   ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=rehan-qx&_t=1770002201014)
   ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Bahawal-Ali-Official&_t=1770002201014)
-  ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=mtr-mtr-x-cyberops&_t=1770000924725)
   <br>
   <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
