@@ -70,6 +70,7 @@
   <img src="https://www.readmecodegen.com/api/github-stats/svg?username=mohid0x01&theme=merko&_t=1770000924725&hide_border=true&bg_color=000000" alt="Stats" />
   
   ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=rehan-qx&_t=1770002201014)
+  ![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Bahawal-Ali-Official&_t=1770002201014)
   <br>
   <sub>© 2026 CYBEROPS. All Systems Nominal.</sub>
 </div>
