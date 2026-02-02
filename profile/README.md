@@ -39,7 +39,7 @@ through the digital veil.
 <br>
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/DIRECTORY/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=808080&labelColor=808080&color=000000" alt="Arsenal Dir">
+<img src="https://img.shields.io/badge/DIRECTORY/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=808080&labelColor=808080&color=000000" alt="Arsenal Dir">
 </h2>
 
 | 📡 Surveillance & Recon | 💥 Exploitation & Attack | 🛡️ Defense & Forensics |
