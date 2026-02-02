@@ -27,17 +27,114 @@
     <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
     <span style="color: #8b949e; font-family: monospace; font-size: 12px; margin-left: 10px;">root@cyberops:~</span>
   </div>
-  <div style="padding: 20px; font-family: 'Courier New', Courier, monospace; color: #c9d1d9;">
-    <span style="color: #27c93f;">root@cyberops:~$</span> ./display_manifesto.sh<br>
-    <br>
-    <span style="color: #00F0FF;">> ESTABLISHING SECURE CONNECTION... [OK]</span><br>
-    <span style="color: #00F0FF;">> DECRYPTING PAYLOAD... [OK]</span><br>
-    <br>
-    <b>CYBEROPS</b> is an elite collective bridging the critical gap between theoretical vulnerability research and weaponized implementation.<br>
-    We do not just find flaws; we engineer the eyes that see through the digital veil.<br>
-    <br>
-    <span style="color: #27c93f;">root@cyberops:~$</span> <span style="animation: blink 1s infinite;">█</span>
+<div align="center">
+
+<div align="left" style="
+  background: linear-gradient(135deg, #0d1117 0%, #010409 100%);
+  border: 1px solid #00F0FF;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 240, 255, 0.2), inset 0 0 10px rgba(0, 240, 255, 0.05);
+  max-width: 850px;
+  overflow: hidden;
+  font-family: 'Cascadia Code', 'JetBrains Mono', 'Courier New', monospace;
+">
+
+  <div style="
+    background: rgba(22, 27, 34, 0.8);
+    padding: 12px 16px;
+    border-bottom: 1px solid rgba(0, 240, 255, 0.3);
+    display: flex;
+    align-items: center;
+    backdrop-filter: blur(5px);
+  ">
+    <div style="display: flex; gap: 8px;">
+      <span style="height: 12px; width: 12px; background: #ff5f56; border-radius: 50%; box-shadow: 0 0 8px #ff5f56;"></span>
+      <span style="height: 12px; width: 12px; background: #ffbd2e; border-radius: 50%; box-shadow: 0 0 8px #ffbd2e;"></span>
+      <span style="height: 12px; width: 12px; background: #27c93f; border-radius: 50%; box-shadow: 0 0 8px #27c93f;"></span>
+    </div>
+    <div style="
+      margin-left: 20px;
+      color: #00F0FF;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      opacity: 0.8;
+      font-weight: bold;
+    ">
+      — SECURE_SHELL: root@cyberops —
+    </div>
   </div>
+
+  <div style="padding: 30px; line-height: 1.8; position: relative;">
+    
+  <div style="
+      position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+      background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.1) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.03), rgba(0, 255, 0, 0.01), rgba(0, 0, 255, 0.03));
+      background-size: 100% 4px, 3px 100%;
+      pointer-events: none;
+    "></div>
+
+<div style="color: #27c93f; margin-bottom: 10px;">
+      <span style="color: #9900FF;">[⚡]</span> root@cyberops:~$ <span style="color: #c9d1d9;">./display_manifesto.sh</span>
+    </div>
+
+  <div style="margin-left: 15px;">
+      <span style="color: #00F0FF; opacity: 0.9;">> ESTABLISHING SECURE CONNECTION...</span> <span style="color: #27c93f;">[OK]</span><br>
+      <span style="color: #00F0FF; opacity: 0.9;">> DECRYPTING PAYLOAD...</span> <span style="color: #27c93f;">[OK]</span><br>
+    </div>
+
+  <br>
+
+  <div style="
+      padding: 15px;
+      border-left: 3px solid #FF0055;
+      background: rgba(255, 0, 85, 0.05);
+      color: #e6edf3;
+      font-size: 1.05em;
+    ">
+      <b style="color: #FF0055; text-shadow: 0 0 10px rgba(255, 0, 85, 0.5);">CYBEROPS</b> is an elite collective bridging the critical gap between theoretical vulnerability research and weaponized implementation.
+      <br><br>
+      We do not just find flaws; we engineer the eyes that see through the digital veil.
+    </div>
+
+   <br>
+
+  <div style="color: #27c93f;">
+      root@cyberops:~$ <span style="
+        display: inline-block;
+        width: 10px;
+        height: 18px;
+        background: #00F0FF;
+        box-shadow: 0 0 10px #00F0FF;
+        vertical-align: middle;
+        animation: blink 1s step-end infinite;
+      "></span>
+    </div>
+  </div>
+
+  <div style="
+    background: rgba(0, 240, 255, 0.1);
+    padding: 6px 16px;
+    font-size: 10px;
+    color: #00F0FF;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(0, 240, 255, 0.2);
+  ">
+    <span>LATENCY: 12ms</span>
+    <span>ENCRYPTION: AES-256-GCM</span>
+    <span>PACKET_LOSS: 0%</span>
+  </div>
+
+</div>
+
+</div>
+
+<style>
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+</style>
 </div>
 
 <br>
