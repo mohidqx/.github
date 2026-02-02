@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/89724864?s=400&v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 240, 255, 0.3);" alt="TeamCyberOps Logo" />
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=60&duration=3000&pause=1000&color=808080&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+to+TeamCyberOps" alt="Glitch Header" style="margin-bottom: -10px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=40&duration=3000&pause=1000&color=808080&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+to+TeamCyberOps" alt="Glitch Header" style="margin-bottom: -10px;" />
 
 <br>
 
