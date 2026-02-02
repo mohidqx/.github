@@ -37,7 +37,9 @@
 | **[💀 GhostSession](https://github.com/mohidqx/GhostSession)** | `Exploitation` | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black) | Instagram session persistence and extraction tool. |
 | **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)** | `Recon` | ![Python](https://img.shields.io/badge/Py-3776AB?logo=python&logoColor=white) | Single-file orchestrator for reconnaissance pipelines. |
 | **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)** | `Automation` | ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black) | Browser extension for X (Twitter) automation. |
-| **[🎓 CTF / Training](https://github.com/mohidqx/CTF)** | `Training` | ![HTML](https://img.shields.io/badge/Web-E34F26?logo=html5&logoColor=white) | Real-world vulnerability challenges and war-games. |
+| **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)** | `Forensics` | ![Python](https://img.shields.io/badge/Py-3776AB?logo=python&logoColor=white) | Browser Data Extractor and social engineering toolkit. |
+| **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)** | `Training` | ![TS](https://img.shields.io/badge/TS-3178C6?logo=typescript&logoColor=white) | Official CTF scenarios and training grounds. |
+| **[🎓 CTF](https://github.com/mohidqx/CTF)** | `Training` | ![HTML](https://img.shields.io/badge/Web-E34F26?logo=html5&logoColor=white) | Real-world vulnerability challenges collection. |
 
 ### 🔬 Sector 02: R&D Division
 *Experimental bots, algorithms, and prototype code.*
@@ -48,21 +50,28 @@
 | **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TypeScript` | 🟡 **Dev** | Experimental AI conversational interface. |
 | **[📉 personal-trader](https://github.com/mohidqx/personal-trader-nest)** | `TypeScript` | 🔵 **Alpha** | Financial trading algorithm prototype. |
 | **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `TypeScript` | 🟢 **Live** | Web mapping and tracking application. |
+| **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)** | `TypeScript` | 🟢 **Live** | Project management utility module. |
 
 ---
 
 <details>
 <summary><b>📂 Sector 03: Classified / Archives (Click to Expand)</b></summary>
 <br>
-<i>Legacy data sets, internal tools, and private architecture.</i>
+<i>Legacy data sets, internal tools, private architecture, and personal files.</i>
 
 | Project | Type | Access |
 | :--- | :--- | :--- |
-| **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)** | `Forensics` | 🔴 **Legacy** |
 | **[📚 Robbins_Pathology](https://github.com/mohidqx/Robbins_Pathology)** | `Education` | 🟢 **Open** |
+| **[🎂 ayesha-s-birthday](https://github.com/mohidqx/ayesha-s-birthday-surprise)** | `Misc` | 🟢 **Open** |
+| **[💾 sim-data](https://github.com/mohidqx/sim-data)** | `Data` | 🟡 **Restricted** |
 | **[🔒 WhoAmi](https://github.com/mohidqx/WhoAmi)** | `Internal` | 🔒 **Private** |
 | **[🔒 AjwaRestaurant](https://github.com/mohidqx/AjwaRestaurant)** | `Client` | 🔒 **Private** |
-| **[💾 sim-data](https://github.com/mohidqx/sim-data)** | `Data` | 🟡 **Restricted** |
+| **[🔒 mohid0x01-Portfolio](https://github.com/mohidqx/mohid0x01-Portfolio)** | `Internal` | 🔒 **Private** |
+| **[🔒 animals0x01](https://github.com/mohidqx/animals0x01)** | `Internal` | 🔒 **Private** |
+| **[🔒 demo-repository](https://github.com/mohidqx/demo-repository)** | `Misc` | 🔒 **Private** |
+| **[🔒 vite-react](https://github.com/mohidqx/vite-react)** | `Dev` | 🔒 **Private** |
+| **[🔒 Test](https://github.com/mohidqx/Test)** | `Test` | 🔒 **Private** |
+| **[⚙️ mohidqx](https://github.com/mohidqx/mohidqx)** | `Config` | 🟢 **Public** |
 
 </details>
 
