@@ -108,8 +108,8 @@ through the digital veil.
         </a>
       </td>
             <td align="center">
-        <a href="https://github.com/mtr-x-cyberops">
-          <img src="https://github.com/mtr-x-cyberops.png" width="80px;" style="border-radius:50%" alt="2.0"/><br />
+        <a href="https://github.com/muhammadtaharana">
+          <img src="https://github.com/muhammadtaharana.jpg" width="80px;" style="border-radius:50%" alt="2.0"/><br />
           <sub><b>2.0²·⁰ (Core)</b></sub>
         </a>
       </td>
@@ -118,7 +118,6 @@ through the digital veil.
 </div>
 
 <br>
-
 <br>
 
 <div align="center">
