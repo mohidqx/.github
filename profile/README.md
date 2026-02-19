@@ -83,39 +83,48 @@ through the digital veil.
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
 <br>
-
-<h3 align="center"><code> 📍 Team Operations: Pakistan 🇵🇰 </code></h3>
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/mohid0x01">
-          <img src="https://github.com/mohid0x01.png" width="80px;" style="border-radius:50%" alt="[r00t:~#]"/><br />
-          <sub><b> [r00t:~#] (Lead)</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/rehan-qx">
-          <img src="https://github.com/rehan-qx.png" width="80px;" style="border-radius:50%" alt="n1xr00t"/><br />
-          <sub><b> n1xr00t (Core)</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Bahawal-Ali-Official">
-          <img src="https://github.com/Bahawal-Ali-Official.png" width="80px;" style="border-radius:50%" alt="zero_trst"/><br />
-          <sub><b>zero_trst (Core)</b></sub>
-        </a>
-      </td>
-            <td align="center">
-        <a href="https://github.com/muhammadtaharana">
-          <img src="https://github.com/muhammadtaharana.jpg" width="80px;" style="border-radius:50%" alt="2.0"/><br />
-          <sub><b>2.0²·⁰ (Core)</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<h3><code> 📍 Team Operations: Pakistan 🇵🇰 </code></h3>
+<br>
+
+<table border="0" align="center" cellpadding="15" cellspacing="0">
+  <tr>    
+    <td align="center" valign="top">
+      <a href="https://github.com/mohid0x01">
+        <img src="https://github.com/mohid0x01.png" width="120px;" style="border-radius:50%; border: 4px solid #FFD700; box-shadow: 0 0 15px rgba(255, 215, 0, 0.6);" alt="[r00t:~#]"/><br /><br />
+        <sub><b><kbd>&nbsp;[r00t:~#]&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Rank-The_Legendary-000?style=flat-square&logo=kalilinux&logoColor=FFD700" style="margin-top: 8px;" alt="The Legendary" /><br />
+        <img src="https://img.shields.io/badge/Award-Best_Cybersecurity_Performance-000?style=flat-square&logo=trophy&logoColor=FFD700" style="margin-top: 4px;" alt="Award Winning" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/rehan-qx">
+        <img src="https://github.com/rehan-qx.png" width="120px;" style="border-radius:50%; border: 4px solid #ff0055; box-shadow: 0 0 15px rgba(255, 0, 85, 0.6);" alt="n1xr00t"/><br /><br />
+        <sub><b><kbd>&nbsp;n1xr00t&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Elite_Bug_Hunter-000?style=flat-square&logo=bugcrowd&logoColor=ff0055" style="margin-top: 8px;" alt="Elite Bug Hunter" /><br />
+        <img src="https://img.shields.io/badge/Rank-P1_Warrior-000?style=flat-square&logo=hackerone&logoColor=ff0055" style="margin-top: 4px;" alt="0-Day Researcher" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Bahawal-Ali-Official">
+        <img src="https://github.com/Bahawal-Ali-Official.png" width="120px;" style="border-radius:50%; border: 4px solid #00ff66; box-shadow: 0 0 15px rgba(0, 255, 102, 0.6);" alt="zero_trst"/><br /><br />
+        <sub><b><kbd>&nbsp;zero_trst&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Master_Python_Dev-000?style=flat-square&logo=python&logoColor=00ff66" style="margin-top: 8px;" alt="Master Python Dev" /><br />
+        <img src="https://img.shields.io/badge/Status-Exploit_Architect-000?style=flat-square&logo=terminal&logoColor=00ff66" style="margin-top: 4px;" alt="Exploit Architect" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/muhammadtaharana">
+        <img src="https://avatars.githubusercontent.com/u/250719509?v=4" width="120px;" style="border-radius:50%; border: 4px solid #00f0ff; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" alt="2.0"/><br /><br />
+        <sub><b><kbd>&nbsp;2.0²·⁰&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Certified_C%7CEH-000?style=flat-square&logo=hackthebox&logoColor=00f0ff" style="margin-top: 8px;" alt="Certified C|EH" /><br />
+        <img src="https://img.shields.io/badge/Status-Network_Ghost-000?style=flat-square&logo=wireshark&logoColor=00f0ff" style="margin-top: 4px;" alt="Network Ghost" />
+      </a>
+    </td>
+
+  </tr>
+</table>
 
 <br>
 <br>
