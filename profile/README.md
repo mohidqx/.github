@@ -42,43 +42,16 @@ through the digital veil.
 <img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=000" alt="Arsenal Dir">
 </h2>
 
-| 📡 Surveillance & Recon | 💥 Exploitation & Attack | 🛡️ Defense & Forensics |
-| :--- | :--- | :--- |
-| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)**<br>Packet harvesting engine. | **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)**<br>XSS payload injector. | **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)**<br>Browser Forensics toolkit. |
-| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)**<br>Domain enumeration. | **[💀 GhostSession](https://github.com/mohidqx/GhostSession)**<br>Session hijacking suite. | **[🔒 CyberOps-Vault](https://github.com/mohidqx)**<br>Internal secure storage. |
-| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)**<br>Social automata & bots. | **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)**<br>Wargame scenarios. | **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)**<br>Project management utility. |
-| **[🛡️ Sentinel-X](https://github.com/mohidqx/Sentinel-X)**<br>OSINT & Network Security. | **[🛠️ XSS-Scanner](https://github.com/mohidqx)**<br>Custom vulnerability scanner. | **[📱 IG-Stealer](https://github.com/mohidqx)**<br>Session persistence tool. |
-
-<br>
 
 <h2 align="left">
   <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=000" alt="Research Dir">
 </h2>
 
-| Project ID | Stack | Status | Objective |
-| :--- | :--- | :--- | :--- |
-| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)** | `NodeJS` | 🟡 `Dev` | High-performance Bot. |
-| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TS/LLM` | 🟡 `Dev` | Intelligence Interface. |
-| **[📉 TraderPro](https://github.com/mohidqx/personal-trader-nest)** | `NestJS` | 🔵 `Alpha` | Copy-trading & Fintech. |
-| **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `React` | 🟢 `Live` | Geospatial Tracking. |
-
-<br>
-
-<details>
 <summary>
   <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=000" alt="Restricted Access"> 
   <b style="color: #8b949e; cursor: pointer;"> Click to view all system resources</b>
 </summary>
-<br>
-<table width="100%">
-<tr><th>📦 Resource</th><th>🔐 Access</th><th>📄 Details</th></tr>
-<tr><td><b>WhoAmi</b></td><td>🚫 <code>Top Secret</code></td><td>Identity resolution protocols.</td></tr>
-<tr><td><b>AjwaRestaurant</b></td><td>🚫 <code>Private</code></td><td>Client architecture.</td></tr>
-<tr><td><b>mohid0x01-Portfolio</b></td><td>🔒 <code>Legacy</code></td><td>Deprecated source code.</td></tr>
-<tr><td><b>vite-react</b></td><td>🔒 <code>Sandbox</code></td><td>Development environment.</td></tr>
-<tr><td><b>FB-Data-Stealer</b></td><td>🚫 <code>Restricted</code></td><td>Browser data extraction research.</td></tr>
-</table>
-</details>
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
