@@ -38,25 +38,6 @@ through the digital veil.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
 <br>
 
-<h2 align="left">
-<img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=000" alt="Arsenal Dir">
-</h2>
-
-
-<h2 align="left">
-  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=000" alt="Research Dir">
-</h2>
-
-<summary>
-  <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=000" alt="Restricted Access"> 
-  <b style="color: #8b949e; cursor: pointer;"> Click to view all system resources</b>
-</summary>
-
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
-<br>
-<div align="center">
 
 <h3><code> 📍 Team Operations: Pakistan 🇵🇰 </code></h3>
 <br>
