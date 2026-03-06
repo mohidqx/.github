@@ -7,31 +7,31 @@
 <br>
 
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a" alt="System Online">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0a0a0a" alt="Security Offensive">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=0a0a0a" alt="Encryption">
-  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a" alt="System Online">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0a0a0a" alt="Security Offensive">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=0a0a0a" alt="Encryption">
+  </a>
 </p>
 
 <br>
 
 <div align="left">
-T̷̨̘͇̲̫̐̔̔̉̔̓̈̾̈̈́͂̓̑̀̕̕ͅé̵̻̲̬̘̣̝̦͉̼͙̹̳̺͓̜̪̘̗̯͓͍̞͍̬̙̳͛͆̃͑̾̊̃̏̈́̓̍̊̇̎̎̀̕͝ȁ̸̢̧̧̗̮̟͓̲̬̥m̵̧̡̧̛͉̲̯̝͎̲̬̩͉̯̫͔̗̤̬̜͉̥̞̃̋͗̓͆̊͌̃̉͗͂͝͝C̸̢̛̝̒̈́͗̓̾̀̾̀̓̊͒̍̚ẙ̶̡̨̥̦͇͕̜͔̞̹̟͉̦̺̜̩̥̐̽̿̆͑͑͗̉̿͊̍̿̾̏͌͝͝ͅb̶̨̢̡̧̝̻̗̝͍̱̫̬̬̱̜͈͔̤̝̜̬̹̺͉̼́ͅe̷̡̡̥̫͍̗̭̳̺̲͙̬̙̫̼̟̘̟̔̈́̽͌̍̈́̇̌͑́̒̊͂̔̄͂̕͜͝ṛ̶̡̛̫̜͖̟͇̹̱͉̱̯̤̙̳̰̦͙̣̤̃̓̋͒̆̐̀̒̐͂̒̆̓̏̈͛̃͆͛͊͑̎̚͝ͅO̴̟̿̒̈̉́̿͛̈́͠p̷͕͙̘̣̯̻̪͉͇̹̈̈́̃́̏â̵̡̢͚̞̲͇͈̲̦̠̖̩̰͉͈̈́̂̔̓̓̊̈͊̅̈́̇͋̓̚͘̕͠ is an elite collective bridging the critical gap 
-between theoretical vulnerability research and weaponized 
+T̷̨̘͇̲̫̐̔̔̉̔̓̈̾̈̈́͂̓̑̀̕̕ͅé̵̻̲̬̘̣̝̦͉̼͙̹̳̺͓̜̪̘̗̯͓͍̞͍̬̙̳͛͆̃͑̾̊̃̏̈́̓̍̊̇̎̎̀̕͝ȁ̸̢̧̧̗̮̟͓̲̬̥m̵̧̡̧̛͉̲̯̝͎̲̬̩͉̯̫͔̗̤̬̜͉̥̞̃̋͗̓͆̊͌̃̉͗͂͝͝C̸̢̛̝̒̈́͗̓̾̀̾̀̓̊͒̍̚ẙ̶̡̨̥̦͇͕̜͔̞̹̟͉̦̺̜̩̥̐̽̿̆͑͑͗̉̿͊̍̿̾̏͌͝͝ͅb̶̨̢̡̧̝̻̗̝͍̱̫̬̬̱̜͈͔̤̝̜̬̹̺͉̼́ͅe̷̡̡̥̫͍̗̭̳̺̲͙̬̙̫̼̟̘̟̔̈́̽͌̍̈́̇̌͑́̒̊͂̔̄͂̕͜͝ṛ̶̡̛̫̜͖̟͇̹̱͉̱̯̤̙̳̰̦͙̣̤̃̓̋͒̆̐̀̒̐͂̒̆̓̏̈͛̃͆͛͊͑̎̚͝ͅO̴̟̿̒̈̉́̿͛̈́͠p̷͕͙̘̣̯̻̪͉͇̹̈̈́̃́̏â̵̡̢͚̞̲͇͈̲̦̠̖̩̰͉͈̈́̂̔̓̓̊̈͊̅̈́̇͋̓̚͘̕͠ is an elite collective bridging the critical gap 
+between theoretical vulnerability research and weaponized 
 implementation.
 
-We do not just find flaws; we engineer the eyes that see 
+We do not just find flaws; we engineer the eyes that see 
 through the digital veil.
 </div>
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
 </div>
 
 <br>
@@ -52,7 +52,7 @@ through the digital veil.
 <br>
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=000" alt="Research Dir">
+  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=000" alt="Research Dir">
 </h2>
 
 | Project ID | Stack | Status | Objective |
@@ -66,8 +66,8 @@ through the digital veil.
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=000" alt="Restricted Access"> 
-  <b style="color: #8b949e; cursor: pointer;"> Click to view all system resources</b>
+  <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=000" alt="Restricted Access"> 
+  <b style="color: #8b949e; cursor: pointer;"> Click to view all system resources</b>
 </summary>
 <br>
 <table width="100%">
@@ -89,54 +89,54 @@ through the digital veil.
 <br>
 
 <table border="0" align="center" cellpadding="15" cellspacing="0">
-  <tr>    
-    <td align="center" valign="top">
-      <a href="https://github.com/mohid0x01">
-        <img src="https://github.com/mohid0x01.png" width="120px;" style="border-radius:50%; border: 4px solid #FFD700; box-shadow: 0 0 15px rgba(255, 215, 0, 0.6);" alt="[r00t:~#]"/><br /><br />
-        <sub><b><kbd>&nbsp;[r00t:~#]&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Rank-The_Legendary-000?style=flat-square&logo=kalilinux&logoColor=FFD700" style="margin-top: 8px;" alt="The Legendary" /><br />
-        <img src="https://img.shields.io/badge/Award-Best_Cybersecurity_Performance-000?style=flat-square&logo=trophy&logoColor=FFD700" style="margin-top: 4px;" alt="Award Winning" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/rehan-qx">
-        <img src="https://github.com/rehan-qx.png" width="120px;" style="border-radius:50%; border: 4px solid #ff0055; box-shadow: 0 0 15px rgba(255, 0, 85, 0.6);" alt="n1xr00t"/><br /><br />
-        <sub><b><kbd>&nbsp;n1xr00t&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Role-Elite_Bug_Hunter-000?style=flat-square&logo=bugcrowd&logoColor=ff0055" style="margin-top: 8px;" alt="Elite Bug Hunter" /><br />
-        <img src="https://img.shields.io/badge/Rank-P1_Warrior-000?style=flat-square&logo=hackerone&logoColor=ff0055" style="margin-top: 4px;" alt="0-Day Researcher" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/Bahawal-Ali-Official">
-        <img src="https://github.com/Bahawal-Ali-Official.png" width="120px;" style="border-radius:50%; border: 4px solid #00ff66; box-shadow: 0 0 15px rgba(0, 255, 102, 0.6);" alt="zero_trst"/><br /><br />
-        <sub><b><kbd>&nbsp;zero_trst&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Role-Master_Python_Dev-000?style=flat-square&logo=python&logoColor=00ff66" style="margin-top: 8px;" alt="Master Python Dev" /><br />
-        <img src="https://img.shields.io/badge/Status-Exploit_Architect-000?style=flat-square&logo=terminal&logoColor=00ff66" style="margin-top: 4px;" alt="Exploit Architect" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/muhammadtaharana">
-        <img src="https://avatars.githubusercontent.com/u/250719509?v=4" width="120px;" style="border-radius:50%; border: 4px solid #00f0ff; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" alt="2.0"/><br /><br />
-        <sub><b><kbd>&nbsp;2.0²·⁰&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Role-Certified_C%7CEH-000?style=flat-square&logo=hackthebox&logoColor=00f0ff" style="margin-top: 8px;" alt="Certified C|EH" /><br />
-        <img src="https://img.shields.io/badge/Status-Network_Ghost-000?style=flat-square&logo=wireshark&logoColor=00f0ff" style="margin-top: 4px;" alt="Network Ghost" />
-      </a>
-    </td>
+  <tr>    
+    <td align="center" valign="top">
+      <a href="https://github.com/mohid0x01">
+        <img src="https://github.com/mohid0x01.png" width="120px;" style="border-radius:50%; border: 4px solid #FFD700; box-shadow: 0 0 15px rgba(255, 215, 0, 0.6);" alt="[r00t:~#]"/><br /><br />
+        <sub><b><kbd>&nbsp;[r00t:~#]&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Rank-The_Legendary-000?style=flat-square&logo=kalilinux&logoColor=FFD700" style="margin-top: 8px;" alt="The Legendary" /><br />
+        <img src="https://img.shields.io/badge/Award-Best_Cybersecurity_Performance-000?style=flat-square&logo=trophy&logoColor=FFD700" style="margin-top: 4px;" alt="Award Winning" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/rehan-qx">
+        <img src="https://github.com/rehan-qx.png" width="120px;" style="border-radius:50%; border: 4px solid #ff0055; box-shadow: 0 0 15px rgba(255, 0, 85, 0.6);" alt="n1xr00t"/><br /><br />
+        <sub><b><kbd>&nbsp;n1xr00t&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Elite_Bug_Hunter-000?style=flat-square&logo=bugcrowd&logoColor=ff0055" style="margin-top: 8px;" alt="Elite Bug Hunter" /><br />
+        <img src="https://img.shields.io/badge/Rank-P1_Warrior-000?style=flat-square&logo=hackerone&logoColor=ff0055" style="margin-top: 4px;" alt="0-Day Researcher" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Bahawal-Ali-Official">
+        <img src="https://github.com/Bahawal-Ali-Official.png" width="120px;" style="border-radius:50%; border: 4px solid #00ff66; box-shadow: 0 0 15px rgba(0, 255, 102, 0.6);" alt="zero_trst"/><br /><br />
+        <sub><b><kbd>&nbsp;zero_trst&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Master_Python_Dev-000?style=flat-square&logo=python&logoColor=00ff66" style="margin-top: 8px;" alt="Master Python Dev" /><br />
+        <img src="https://img.shields.io/badge/Status-Exploit_Architect-000?style=flat-square&logo=terminal&logoColor=00ff66" style="margin-top: 4px;" alt="Exploit Architect" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/muhammadtaharana">
+        <img src="https://avatars.githubusercontent.com/u/250719509?v=4" width="120px;" style="border-radius:50%; border: 4px solid #00f0ff; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" alt="2.0"/><br /><br />
+        <sub><b><kbd>&nbsp;2.0²·⁰&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Certified_C%7CEH-000?style=flat-square&logo=hackthebox&logoColor=00f0ff" style="margin-top: 8px;" alt="Certified C|EH" /><br />
+        <img src="https://img.shields.io/badge/Status-Network_Ghost-000?style=flat-square&logo=wireshark&logoColor=00f0ff" style="margin-top: 4px;" alt="Network Ghost" />
+      </a>
+    </td>
 
-  </tr>
+  </tr>
 </table>
 
 <br>
 <br>
 
 <div align="center">
-  <p style="font-family: monospace; font-size: 10px; color: #30363d;">
-    -----BEGIN PGP SIGNATURE-----<br>
-    VERSION: Dreamers <br>
-    TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0²·⁰ <br>
-    -----END PGP SIGNATURE-----
-  </p>
-  
+  <p style="font-family: monospace; font-size: 10px; color: #30363d;">
+    -----BEGIN PGP SIGNATURE-----<br>
+    VERSION: Dreamers <br>
+    TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0²·⁰ <br>
+    -----END PGP SIGNATURE-----
+  </p>
+  
 ### 📊 Team
 
 | 🟢 Members | 🛠️ Commits | 🏗️ Repos | 🤝 Followers |
@@ -148,4 +148,3 @@ through the digital veil.
 </div>
 
 </div>
-
