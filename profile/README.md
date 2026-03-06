@@ -2,34 +2,36 @@
 
 <img src="https://avatars.githubusercontent.com/u/89724864?s=400&v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 240, 255, 0.3);" alt="TeamCyberOps Logo" />
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=40&duration=3000&pause=1000&color=808080&background=00000000&center=true&vCenter=true&width=900&lines=TeamCyberOps+Central+Command" alt="Glitch Header" style="margin-bottom: -10px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=40&duration=3000&pause=1000&color=808080&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+to+TeamCyberOps" alt="Glitch Header" style="margin-bottom: -10px;" />
 
 <br>
 
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/ORG_STATUS-ACTIVE-00ff66?style=for-the-badge&logo=opsgenie&logoColor=white&labelColor=0a0a0a" alt="Org Active">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/NODES-PAKISTAN_HQ-blue?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="HQ Location">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/SECTOR-OFFENSIVE_RESEARCH-red?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0a0a0a" alt="Sector">
-  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a" alt="System Online">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0a0a0a" alt="Security Offensive">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=0a0a0a" alt="Encryption">
+  </a>
 </p>
 
 <br>
 
 <div align="left">
-T̷̨̘͇̲̫̐̔̔̉̔̓̈̾̈̈́͂̓̑̀̕̕ͅé̵̻̲̬̘̣̝̦͉̼͙̹̳̺͓̜̪̘̗̯͓͍̞͍̬̙̳͛͆̃͑̾̊̃̏̈́̓̍̊̇̎̎̀̕͝ȁ̸̢̧̧̗̮̟͓̲̬̥m̵̧̡̧̛͉̲̯̝͎̲̬̩͉̯̫͔̗̤̬̜͉̥̞̃̋͗̓͆̊͌̃̉͗͂͝͝C̸̢̛̝̒̈́͗̓̾̀̾̀̓̊͒̍̚ẙ̶̡̨̥̦͇͕̜͔̞̹̟͉̦̺̜̩̥̐̽̿̆͑͑͗̉̿͊̍̿̾̏͌͝͝ͅb̶̨̢̡̧̝̻̗̝͍̱̫̬̬̱̜͈͔̤̝̜̬̹̺͉̼́ͅe̷̡̡̥̫͍̗̭̳̺̲͙̬̙̫̼̟̘̟̔̈́̽͌̍̈́̇̌͑́̒̊͂̔̄͂̕͜͝ṛ̶̡̛̫̜͖̟͇̹̱͉̱̯̤̙̳̰̦͙̣̤̃̓̋͒̆̐̀̒̐͂̒̆̓̏̈͛̃͆͛͊͑̎̚͝ͅO̴̟̿̒̈̉́̿͛̈́͠p̷͕͙̘̣̯̻̪͉͇̹̈̈́̃́̏â̵̡̢͚̞̲͇͈̲̦̠̖̩̰͉͈̈́̂̔̓̓̊̈͊̅̈́̇͋̓̚͘̕͠ is a structured cyber-intelligence collective. We operate at the intersection of offensive security engineering and strategic vulnerability disclosure. 
+T̷̨̘͇̲̫̐̔̔̉̔̓̈̾̈̈́͂̓̑̀̕̕ͅé̵̻̲̬̘̣̝̦͉̼͙̹̳̺͓̜̪̘̗̯͓͍̞͍̬̙̳͛͆̃͑̾̊̃̏̈́̓̍̊̇̎̎̀̕͝ȁ̸̢̧̧̗̮̟͓̲̬̥m̵̧̡̧̛͉̲̯̝͎̲̬̩͉̯̫͔̗̤̬̜͉̥̞̃̋͗̓͆̊͌̃̉͗͂͝͝C̸̢̛̝̒̈́͗̓̾̀̾̀̓̊͒̍̚ẙ̶̡̨̥̦͇͕̜͔̞̹̟͉̦̺̜̩̥̐̽̿̆͑͑͗̉̿͊̍̿̾̏͌͝͝ͅb̶̨̢̡̧̝̻̗̝͍̱̫̬̬̱̜͈͔̤̝̜̬̹̺͉̼́ͅe̷̡̡̥̫͍̗̭̳̺̲͙̬̙̫̼̟̘̟̔̈́̽͌̍̈́̇̌͑́̒̊͂̔̄͂̕͜͝ṛ̶̡̛̫̜͖̟͇̹̱͉̱̯̤̙̳̰̦͙̣̤̃̓̋͒̆̐̀̒̐͂̒̆̓̏̈͛̃͆͛͊͑̎̚͝ͅO̴̟̿̒̈̉́̿͛̈́͠p̷͕͙̘̣̯̻̪͉͇̹̈̈́̃́̏â̵̡̢͚̞̲͇͈̲̦̠̖̩̰͉͈̈́̂̔̓̓̊̈͊̅̈́̇͋̓̚͘̕͠ is an elite collective bridging the critical gap 
+between theoretical vulnerability research and weaponized 
+implementation.
 
-Our mission is to architect high-fidelity tools that redefine the boundaries of digital reconnaissance and system persistence.
+We do not just find flaws; we engineer the eyes that see 
+through the digital veil.
 </div>
 
-<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
 </div>
 
 <br>
@@ -37,104 +39,113 @@ Our mission is to architect high-fidelity tools that redefine the boundaries of 
 <br>
 
 <h2 align="left">
-<img src="https://img.shields.io/badge/ORGANIZATION-/dev/null-000000?style=flat-square&logo=git&logoColor=white&labelColor=000" alt="Org Dir">
+<img src="https://img.shields.io/badge/DIRECTORY-/bin/arsenal-000000?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=000" alt="Arsenal Dir">
 </h2>
 
 | 📡 Surveillance & Recon | 💥 Exploitation & Attack | 🛡️ Defense & Forensics |
 | :--- | :--- | :--- |
-| **NetReaper**<br>Core harvesting engine. | **AutoInjectX**<br>Advanced injection framework. | **BDEFS**<br>Forensics acquisition toolkit. |
-| **Recon-Subdomain**<br>Asset discovery module. | **GhostSession**<br>Session orchestration suite. | **CyberOps-Vault**<br>Encrypted asset storage. |
-| **Sentinel-X**<br>Network intelligence node. | **XSS-Scanner**<br>Heuristic vulnerability engine. | **IG-Stealer**<br>Persistence research. |
+| **[👻 NetReaper](https://github.com/mohidqx/NetReaper)**<br>Packet harvesting engine. | **[💉 AutoInjectX](https://github.com/mohidqx/AutoInjectX)**<br>XSS payload injector. | **[🕵️ BDEFS](https://github.com/mohidqx/BDEFS)**<br>Browser Forensics toolkit. |
+| **[🕷️ Recon-Subdomain](https://github.com/mohidqx/Recon-Subdomain)**<br>Domain enumeration. | **[💀 GhostSession](https://github.com/mohidqx/GhostSession)**<br>Session hijacking suite. | **[🔒 CyberOps-Vault](https://github.com/mohidqx)**<br>Internal secure storage. |
+| **[🤖 TwitterPro](https://github.com/mohidqx/TwitterPro)**<br>Social automata & bots. | **[🚩 CyberOps-CTF](https://github.com/mohidqx/cyberops-capture-the-flag)**<br>Wargame scenarios. | **[🏙️ pk-mmm](https://github.com/mohidqx/pk-mmm)**<br>Project management utility. |
+| **[🛡️ Sentinel-X](https://github.com/mohidqx/Sentinel-X)**<br>OSINT & Network Security. | **[🛠️ XSS-Scanner](https://github.com/mohidqx)**<br>Custom vulnerability scanner. | **[📱 IG-Stealer](https://github.com/mohidqx)**<br>Session persistence tool. |
 
 <br>
 
 <h2 align="left">
-  <img src="https://img.shields.io/badge/DEPLOYMENT-/srv/active-000000?style=flat-square&logo=docker&logoColor=white&labelColor=000" alt="Active Services">
+  <img src="https://img.shields.io/badge/DIRECTORY-/opt/research-000000?style=flat-square&logo=labview&logoColor=white&labelColor=000" alt="Research Dir">
 </h2>
 
-| System ID | Tech Stack | Operational Status | Objective |
+| Project ID | Stack | Status | Objective |
 | :--- | :--- | :--- | :--- |
-| **SAKAMOTO-MD** | `NodeJS` | 🟡 `Maintenance` | Autonomous Bot Infrastructure. |
-| **AI-Chatbot** | `TS/LLM` | 🟢 `Operational` | Neural Intelligence Interface. |
-| **TraderPro** | `NestJS` | 🔵 `Beta` | Fintech Security Research. |
-| **Indus-Trails** | `React` | 🟢 `Live` | Geospatial Data Analysis. |
+| **[🤖 SAKAMOTO-MD](https://github.com/mohidqx/SAKAMOTO-MD)** | `NodeJS` | 🟡 `Dev` | High-performance Bot. |
+| **[💬 AI-Chatbot](https://github.com/mohidqx/AI-Chatbot)** | `TS/LLM` | 🟡 `Dev` | Intelligence Interface. |
+| **[📉 TraderPro](https://github.com/mohidqx/personal-trader-nest)** | `NestJS` | 🔵 `Alpha` | Copy-trading & Fintech. |
+| **[🗺️ indus-trails](https://github.com/mohidqx/indus-trails-online-7d2b34c3)** | `React` | 🟢 `Live` | Geospatial Tracking. |
 
 <br>
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/RESOURCES-INTERNAL_USE_ONLY-333333?style=flat-square&logo=lock&logoColor=000" alt="Restricted Access"> 
-  <b style="color: #8b949e; cursor: pointer;"> Click to access organization logs</b>
+  <img src="https://img.shields.io/badge/ACCESS_LEVEL-RESTRICTED-333333?style=flat-square&logo=lock&logoColor=000" alt="Restricted Access"> 
+  <b style="color: #8b949e; cursor: pointer;"> Click to view all system resources</b>
 </summary>
 <br>
 <table width="100%">
-<tr><th>📦 Resource Cluster</th><th>🔐 Clearance</th><th>📄 Operational Notes</th></tr>
-<tr><td><b>Identity Protocols</b></td><td>🚫 <code>Level 5</code></td><td>Internal WhoAmi resolution.</td></tr>
-<tr><td><b>Client Architecture</b></td><td>🚫 <code>Level 3</code></td><td>Private AjwaRestaurant framework.</td></tr>
-<tr><td><b>Legacy Archives</b></td><td>🔒 <code>Level 1</code></td><td>Deprecated portfolio source.</td></tr>
-<tr><td><b>Sandboxed Dev</b></td><td>🔒 <code>Public</code></td><td>Vite-React testing environment.</td></tr>
+<tr><th>📦 Resource</th><th>🔐 Access</th><th>📄 Details</th></tr>
+<tr><td><b>WhoAmi</b></td><td>🚫 <code>Top Secret</code></td><td>Identity resolution protocols.</td></tr>
+<tr><td><b>AjwaRestaurant</b></td><td>🚫 <code>Private</code></td><td>Client architecture.</td></tr>
+<tr><td><b>mohid0x01-Portfolio</b></td><td>🔒 <code>Legacy</code></td><td>Deprecated source code.</td></tr>
+<tr><td><b>vite-react</b></td><td>🔒 <code>Sandbox</code></td><td>Development environment.</td></tr>
+<tr><td><b>FB-Data-Stealer</b></td><td>🚫 <code>Restricted</code></td><td>Browser data extraction research.</td></tr>
 </table>
 </details>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
 <br>
-
 <div align="center">
-<h3><code> 📍 Operational Nodes: Regional HQ 🇵🇰 </code></h3>
+
+<h3><code> 📍 Team Operations: Pakistan 🇵🇰 </code></h3>
 <br>
 
 <table border="0" align="center" cellpadding="15" cellspacing="0">
-  <tr>    
-    <td align="center" valign="top">
-      <a href="https://github.com/mohid0x01">
-        <img src="https://github.com/mohid0x01.png" width="120px;" style="border-radius:50%; border: 4px solid #FFD700; box-shadow: 0 0 15px rgba(255, 215, 0, 0.6);" alt="Lead"/><br /><br />
-        <sub><b><kbd>&nbsp;[Lead Analyst]&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Rank-Legendary-000?style=flat-square&logo=kalilinux&logoColor=FFD700" style="margin-top: 8px;" /><br />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/rehan-qx">
-        <img src="https://github.com/rehan-qx.png" width="120px;" style="border-radius:50%; border: 4px solid #ff0055; box-shadow: 0 0 15px rgba(255, 0, 85, 0.6);" alt="Bug Hunter"/><br /><br />
-        <sub><b><kbd>&nbsp;[Bug Hunter]&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Role-Vulnerability_Research-000?style=flat-square&logo=bugcrowd&logoColor=ff0055" style="margin-top: 8px;" /><br />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/Bahawal-Ali-Official">
-        <img src="https://github.com/Bahawal-Ali-Official.png" width="120px;" style="border-radius:50%; border: 4px solid #00ff66; box-shadow: 0 0 15px rgba(0, 255, 102, 0.6);" alt="Dev"/><br /><br />
-        <sub><b><kbd>&nbsp;[Core Engineer]&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Role-Exploit_Architect-000?style=flat-square&logo=python&logoColor=00ff66" style="margin-top: 8px;" /><br />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/muhammadtaharana">
-        <img src="https://avatars.githubusercontent.com/u/250719509?v=4" width="120px;" style="border-radius:50%; border: 4px solid #00f0ff; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" alt="Network"/><br /><br />
-        <sub><b><kbd>&nbsp;[Net Engineer]&nbsp;</kbd></b></sub><br />
-        <img src="https://img.shields.io/badge/Role-Network_Ghost-000?style=flat-square&logo=wireshark&logoColor=00f0ff" style="margin-top: 8px;" /><br />
-      </a>
-    </td>
-  </tr>
+  <tr>    
+    <td align="center" valign="top">
+      <a href="https://github.com/mohid0x01">
+        <img src="https://github.com/mohid0x01.png" width="120px;" style="border-radius:50%; border: 4px solid #FFD700; box-shadow: 0 0 15px rgba(255, 215, 0, 0.6);" alt="[r00t:~#]"/><br /><br />
+        <sub><b><kbd>&nbsp;[r00t:~#]&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Rank-The_Legendary-000?style=flat-square&logo=kalilinux&logoColor=FFD700" style="margin-top: 8px;" alt="The Legendary" /><br />
+        <img src="https://img.shields.io/badge/Award-Best_Cybersecurity_Performance-000?style=flat-square&logo=trophy&logoColor=FFD700" style="margin-top: 4px;" alt="Award Winning" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/rehan-qx">
+        <img src="https://github.com/rehan-qx.png" width="120px;" style="border-radius:50%; border: 4px solid #ff0055; box-shadow: 0 0 15px rgba(255, 0, 85, 0.6);" alt="n1xr00t"/><br /><br />
+        <sub><b><kbd>&nbsp;n1xr00t&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Elite_Bug_Hunter-000?style=flat-square&logo=bugcrowd&logoColor=ff0055" style="margin-top: 8px;" alt="Elite Bug Hunter" /><br />
+        <img src="https://img.shields.io/badge/Rank-P1_Warrior-000?style=flat-square&logo=hackerone&logoColor=ff0055" style="margin-top: 4px;" alt="0-Day Researcher" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Bahawal-Ali-Official">
+        <img src="https://github.com/Bahawal-Ali-Official.png" width="120px;" style="border-radius:50%; border: 4px solid #00ff66; box-shadow: 0 0 15px rgba(0, 255, 102, 0.6);" alt="zero_trst"/><br /><br />
+        <sub><b><kbd>&nbsp;zero_trst&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Master_Python_Dev-000?style=flat-square&logo=python&logoColor=00ff66" style="margin-top: 8px;" alt="Master Python Dev" /><br />
+        <img src="https://img.shields.io/badge/Status-Exploit_Architect-000?style=flat-square&logo=terminal&logoColor=00ff66" style="margin-top: 4px;" alt="Exploit Architect" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/muhammadtaharana">
+        <img src="https://avatars.githubusercontent.com/u/250719509?v=4" width="120px;" style="border-radius:50%; border: 4px solid #00f0ff; box-shadow: 0 0 15px rgba(0, 240, 255, 0.6);" alt="2.0"/><br /><br />
+        <sub><b><kbd>&nbsp;2.0²·⁰&nbsp;</kbd></b></sub><br />
+        <img src="https://img.shields.io/badge/Role-Certified_C%7CEH-000?style=flat-square&logo=hackthebox&logoColor=00f0ff" style="margin-top: 8px;" alt="Certified C|EH" /><br />
+        <img src="https://img.shields.io/badge/Status-Network_Ghost-000?style=flat-square&logo=wireshark&logoColor=00f0ff" style="margin-top: 4px;" alt="Network Ghost" />
+      </a>
+    </td>
+
+  </tr>
 </table>
 
 <br>
+<br>
 
 <div align="center">
-  
-### 📊 Collective Statistics
+  <p style="font-family: monospace; font-size: 10px; color: #30363d;">
+    -----BEGIN PGP SIGNATURE-----<br>
+    VERSION: Dreamers <br>
+    TEAM: [r00t:~#] | n1xr00t | zero_trst | 2.0²·⁰ <br>
+    -----END PGP SIGNATURE-----
+  </p>
+  
+### 📊 Team
 
-| 🟢 Active Members | 🛠️ Total Contributions | 📡 Reach | 🤝 Affiliations |
+| 🟢 Members | 🛠️ Commits | 🏗️ Repos | 🤝 Followers |
 | :--- | :--- | :--- | :--- |
-| **04 Operators** | ![](https://img.shields.io/badge/Commits-1.5k+-000?style=flat-square) | ![](https://img.shields.io/badge/Network-Global-blue?style=flat-square) | ![](https://img.shields.io/badge/Security-Verified-green?style=flat-square) |
+| **[r00t:~#]** | ![](https://img.shields.io/badge/Commits-1.2k+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-55+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-8-9900FF?style=flat-square) |
+| **n1xr00t** | ![](https://img.shields.io/badge/Commits-150+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-5+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
+| **zero_trst** | ![](https://img.shields.io/badge/Commits-80+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-16+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-5-9900FF?style=flat-square) |
+| **2.0²·⁰** | ![](https://img.shields.io/badge/Commits-10+-000?style=flat-square) | ![](https://img.shields.io/badge/Repos-2+-FF0055?style=flat-square) | ![](https://img.shields.io/badge/Followers-3-9900FF?style=flat-square) |
+</div>
 
 </div>
 
-<br>
-<p style="font-family: monospace; font-size: 10px; color: #30363d;">
-    -----BEGIN TEAM SIGNATURE-----<br>
-    AUTHENTICATED BY TEAMCYBEROPS CONTROL<br>
-    VERIFIED: 2024-2026 OP-CYCLE<br>
-    -----END TEAM SIGNATURE-----
-</p>
-
-</div>
