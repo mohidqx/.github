@@ -31,7 +31,7 @@ through the digital veil.
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase&perline=10&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase,metasploit,netcat&perline=10&theme=dark" alt="Skills" />
 </div>
 
 <br>
