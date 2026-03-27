@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="https://avatars.githubusercontent.com/u/89724864?s=400&v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 30px rgba(0, 240, 255, 0.3);" alt="TeamCyberOps Logo" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&weight=200&size=40&duration=3000&pause=1000&color=808080&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+to+TeamCyberOps" alt="Glitch Header" style="margin-bottom: -10px;" />
-
+<img width="1920" height="1080" alt="Github-Banner" src="https://github.com/user-attachments/assets/5c44b1b1-3e71-41bd-9c07-197b00ca9333" />
 <br>
 
 <p align="center">
