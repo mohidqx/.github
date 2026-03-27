@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="Github-Banner" src="https://github.com/user-attachments/assets/69597394-6c09-4fae-aba4-1f5ff7eacaf9" />
-<img width="1920" height="1080" alt="github-repo-banner" src="https://github.com/user-attachments/assets/76a28f37-a21f-488f-99cd-0081ac2f1ecd" />
-<img width="1920" height="1080" alt="Github-Crew-Banner" src="https://github.com/user-attachments/assets/cd4d5c12-c770-409e-ad95-5c785253b883" />
-
-
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/95ba913f-7fbf-4890-916d-e5aa745e85ff" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/408822f3-9213-4eb8-8975-3ccf542d696a" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/7226084a-983b-4624-b0fc-117121778348" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/c6a7bb5f-6647-4038-a0f1-587db47109bd" />
