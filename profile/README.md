@@ -1,38 +1,6 @@
-<div align="center">
-<img width="1920" height="1080" alt="Github-Banner" src="https://github.com/user-attachments/assets/5c44b1b1-3e71-41bd-9c07-197b00ca9333" />
-<br>
+<img width="1920" height="1080" alt="Github-Banner" src="https://github.com/user-attachments/assets/69597394-6c09-4fae-aba4-1f5ff7eacaf9" />
 
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a" alt="System Online">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0a0a0a" alt="Security Offensive">
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/ENCRYPTION-AES_256-000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=0a0a0a" alt="Encryption">
-  </a>
-</p>
-
-<br>
-
-<div align="left">
-T̷̨̘͇̲̫̐̔̔̉̔̓̈̾̈̈́͂̓̑̀̕̕ͅé̵̻̲̬̘̣̝̦͉̼͙̹̳̺͓̜̪̘̗̯͓͍̞͍̬̙̳͛͆̃͑̾̊̃̏̈́̓̍̊̇̎̎̀̕͝ȁ̸̢̧̧̗̮̟͓̲̬̥m̵̧̡̧̛͉̲̯̝͎̲̬̩͉̯̫͔̗̤̬̜͉̥̞̃̋͗̓͆̊͌̃̉͗͂͝͝C̸̢̛̝̒̈́͗̓̾̀̾̀̓̊͒̍̚ẙ̶̡̨̥̦͇͕̜͔̞̹̟͉̦̺̜̩̥̐̽̿̆͑͑͗̉̿͊̍̿̾̏͌͝͝ͅb̶̨̢̡̧̝̻̗̝͍̱̫̬̬̱̜͈͔̤̝̜̬̹̺͉̼́ͅe̷̡̡̥̫͍̗̭̳̺̲͙̬̙̫̼̟̘̟̔̈́̽͌̍̈́̇̌͑́̒̊͂̔̄͂̕͜͝ṛ̶̡̛̫̜͖̟͇̹̱͉̱̯̤̙̳̰̦͙̣̤̃̓̋͒̆̐̀̒̐͂̒̆̓̏̈͛̃͆͛͊͑̎̚͝ͅO̴̟̿̒̈̉́̿͛̈́͠p̷͕͙̘̣̯̻̪͉͇̹̈̈́̃́̏â̵̡̢͚̞̲͇͈̲̦̠̖̩̰͉͈̈́̂̔̓̓̊̈͊̅̈́̇͋̓̚͘̕͠ is an elite collective bridging the critical gap 
-between theoretical vulnerability research and weaponized 
-implementation.
-
-We do not just find flaws; we engineer the eyes that see 
-through the digital veil.
-</div>
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,linux,kali,c,cpp,rust,go,docker,kubernetes,aws,git,githubactions,grafana,react,nextjs,supabase,arch&perline=10&theme=dark" alt="Skills" />
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3px" alt="Cyber Line">
-<br>
+<img width="1920" height="1080" alt="github-repo-banner" src="https://github.com/user-attachments/assets/76a28f37-a21f-488f-99cd-0081ac2f1ecd" />
 
 
 <h3><code> 📍 Team Operations: Pakistan 🇵🇰 </code></h3>
